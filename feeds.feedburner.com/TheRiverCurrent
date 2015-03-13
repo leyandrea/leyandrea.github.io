@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Market Blog</title>
+	
+	<link>http://marketblog.envato.com</link>
+	<description>The Envato Market Blog</description>
+	<lastBuildDate>Fri, 13 Mar 2015 06:58:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.1</generator>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TheRiverCurrent" /><feedburner:info uri="therivercurrent" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><image><link>http://graphicriver.net</link><url>http://envato.s3.amazonaws.com/rss_images/gr.jpg</url><title>GraphicRiver</title></image><feedburner:emailServiceId>TheRiverCurrent</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>CSS Animation Trends in Web Design</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/lNVKr2bGYaw/</link>
+		<comments>http://marketblog.envato.com/trends/css-animation-trends-in-web-design/#comments</comments>
+		<pubDate>Thu, 12 Mar 2015 10:54:56 +0000</pubDate>
+		<dc:creator><![CDATA[Jake Rocheleau]]></dc:creator>
+				<category><![CDATA[Trends]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39778</guid>
+		<description><![CDATA[<p>By embracing these newer CSS techniques, you'll stumble down avenues of unique animation and exciting design trends for years to come.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/trends/css-animation-trends-in-web-design/">CSS Animation Trends in Web Design</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The web is an ever-evolving medium propelled forward by enthusiastic developers and creators. Animation is just a slice of web design that has risen to high acclamation in recent years. The methods and techniques for adding motion to an interface may have changed, but the end result is still a lively design with charming interactive tendencies.</p>
+<p>The following <a href="http://marketblog.envato.com/category/trends/" target="_blank">trends</a> are a catalog of the current era in website animation. While JavaScript is a fantastic animation language, CSS has become easier and heavily supported by the design community. By embracing these newer CSS techniques you&#8217;ll stumble down avenues of unique animation and exciting design trends for years to come.</p>
+<h2><b>Homepage Animation</b></h2>
+<p>Aesthetic appeal in web design can be generated through various means. And while everyone can appreciate beauty, the self-proclaimed aesthetes will surely notice the power of beautiful animation.</p>
+<p>A website&#8217;s homepage can be improved through branding, icons, illustrations, or any number of added features. Once the underlying user experience has been created, it&#8217;s easier to focus on a layer of colorful graphics and spicy design techniques. Animation is one such technique that can really spice up a homepage to draw attention from new visitors.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://underbelly.is/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/01-underbelly-website-blue-bg-agency.jpg" alt="underbelly design agency website animated" /></a><figcaption class="wp-caption-text">Underbelly has a brief animation in their header that represents the agency&#8217;s talents.</figcaption></figure>
+<p><a target="_blank" href="http://underbelly.is/">Underbelly</a> is a creative agency with a very clean website. I love their design because it&#8217;s straightforward and true to the company&#8217;s branding. Their homepage includes a brief animation in the header with a few icons representing the agency&#8217;s talents.</p>
+<p>The great thing about this effect is how it draws attention. The animated elements are subtle but noticeable. First-time visitors can get a feel for the agency just from the initial website header. Although it is a simple example, it works perfectly in the context of Underbelly&#8217;s website.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://madebytheory.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/02-made-by-theory-website-homepage-header.jpg" alt="made by theory header animation" /></a><figcaption class="wp-caption-text">Theory uses animation with offscreen slide/fade-in.</figcaption></figure>
+<p>To see a more detailed homepage animation take a look at the <a target="_blank" href="http://madebytheory.com/">Theory agency website</a>. Their heading also uses animation on various elements that slide/fade in from offscreen. Right after landing on the homepage it should become apparent that Theory has talent.</p>
+<p>When scrolling down the page other elements will animate into view. This effect is typically referred to as &#8220;scroll-to-animate&#8221;, for lack of a better term. Both effects, when combined, illustrate a fascinating combo for homepage animation.</p>
+<p>It&#8217;s an interesting effect that only requires a tiny bit of JavaScript. I feel it works best on product pages where screenshots and previews are of vital importance. But there&#8217;s no question that elegantly animated elements on the homepage will draw attention while painting a picture of the website&#8217;s true purpose.</p>
+<h2><b>Content Galleries &#038; Slideshows</b></h2>
+<p>Interactive page elements can also utilize animation for a snappy response to user input. Mobile touchscreen apps were the first to pioneer the concept of immediate response based on the user&#8217;s action.</p>
+<p>For example <a target="_blank" href="http://marketblog.envato.com/trends/introduction-material-design/">Google&#8217;s Material Design</a> &amp; Apple&#8217;s iOS both support multiple animation styles. Users can swipe, tap, touch &amp; hold, pull down, pinch &amp; zoom, among other alternatives. These interactions will create different animations based on the operating system&#8217;s UX guidelines.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.apple.com/mac/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/04-apple-mac-slider-content-widget.jpg" alt="apple mac slider animated" /></a><figcaption class="wp-caption-text">Product slider featuring all of the various Mac products.</figcaption></figure>
+<p>Take a look at the <a target="_blank" href="http://www.apple.com/mac/">Apple Mac website</a> near the top of the page. It has a product slider featuring all of the various Mac products. On first pageload each item will animate and fade into the slider. Then as you click between different categories the items will animate in from the side.</p>
+<p>What&#8217;s interesting about this effect is motion applied to each item. When moving to the right new items will animate in like the slider panned over to the right. When moving back it&#8217;ll actually feel like the slider is panning back like a video camera. This elastic animation makes the website feel more &#8220;alive&#8221; as if it behaves according to the natural laws of gravity and motion.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://geomanist.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/05-geomanist-typography-content-slider.jpg" alt="geomanist content slider" /></a><figcaption class="wp-caption-text">the fullscreen slider from Geomanist.</figcaption></figure>
+<p>You can see a fullscreen slider example on the <a target="_blank" href="http://geomanist.com/">Geomanist homepage</a>. There isn&#8217;t an elastic effect but the content does animate as expected in a carousel rotation.</p>
+<p>When adding a content gallery to your site try to include animation or CSS transitions. Most <a href="http://codecanyon.net/category/css" target="_blank">plugins</a> come with the option to setup animated effects without a lot of extra code. This is a small effect, but it can go a long way towards giving the illusion of vitality in a webpage.</p>
+<h2><b>Form Input Fields</b></h2>
+<p>Another interactive element is the ever-popular web form. Most forms are comprised of various elements like text fields, radio buttons, checkboxes, select menus, and other thingamabobs.</p>
+<p><a href="http://marketblog.envato.com/inspirations/subtly-animated-forms/">Animated forms</a> behave just like content sliders &#8211; they give a sense of life to user interactivity. Users enjoy seeing a response from their click, scroll, or keypress event. The default browser response is often fine, but adding that little extra oomph to your form can make all the difference.</p>
+<p>Take a look at the below <a target="_blank" href="http://codepen.io/dylanraga/full/Qwqbab/">CodePen snippet</a> which creates animated checkbox inputs. The whole thing is built using pure CSS3 transition effects.</p>
+<p data-height="438" data-theme-id="0" data-slug-hash="Qwqbab" data-default-tab="result" data-user="dylanraga" class='codepen'>
+<p><script async src="//assets.codepen.io/assets/embed/ei.js"></script></p>
+<p>Although the animation would only be supported in modern browsers it adds a beautiful effect without a whole lot of extra code. It may seem insignificant to webmasters, but users often love these added features. Little animations demonstrate careful attention to detail, and it&#8217;s often the little things that color our opinion of a website.</p>
+<p data-height="421" data-theme-id="0" data-slug-hash="ohLIa" data-default-tab="result" data-user="MichaelArestad" class='codepen'>
+<p><script async src="//assets.codepen.io/assets/embed/ei.js"></script></p>
+<p>Another great use of form animation is with input labels. This trend is still fairly new but it is a profound method of capturing attention. The premise behind this animation is to save space in a text field when needed.</p>
+<p>Note that the above <a target="_blank" href="http://codepen.io/MichaelArestad/full/ohLIa">CodePen animated inputs snippet</a> is also built using pure CSS. Although many frontend developers like to play with CSS animation there&#8217;s nothing wrong with adding a JavaScript alternative. This is actually much safer considering not everyone is using a CSS3-supported browser.</p>
+<p>Overall forms are a great place to add animation. They&#8217;re interactive by default so users often appreciate the animated response(s) to their interactivity.</p>
+<h2><b>Sliding Navigation</b></h2>
+<p>There&#8217;s a big juicy <a href="http://marketblog.envato.com/trends/taking-look-current-responsive-navigation-trends/">hodgepodge of navigation styles</a> to choose from &#8211; and unsurprisingly most of them can be animated. Many designers think of the hamburger sliding menus like you&#8217;d find on the <a target="_blank" href="http://www.cc.com/">Comedy Central</a> or <a target="_blank" href="http://www.supereightstudio.com/">Supereight</a> websites. But this is perhaps the obvious answer to sliding navigation.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://humaan.com/about/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/08-humaan-website-sliding-topbar-navigation.jpg" alt="humaan slider topbar animation" /></a><figcaption class="wp-caption-text">Scroll past the header and the nav-bar will animate into view.</figcaption></figure>
+<p>Consider the more abstract uses of animation like fixed sliding navbars. These often appear as if they&#8217;re static at the top of the page until the visitor starts scrolling. The nav will attach itself to the very top of the website and stay with the visitor throughout their excursion.</p>
+<p>The layout for <a target="_blank" href="http://humaan.com/about/">Humaan</a> is a great example. As you scroll down past the header the navigation bar will animate into view. It slides down right off-screen and stays fixed until reaching the very top of the page. Although the sliding motion isn&#8217;t necessary, it does add some excitement to the design.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.cabedge.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/09-cabedge-website-dropdown-animated-navigation.jpg" alt="cabedge dropdown animation menu" /></a><figcaption class="wp-caption-text">The lifelike navigation from Cabedge.</figcaption></figure>
+<p>Another distinct example can be found on the <a target="_blank" href="http://www.cabedge.com/">Cabedge</a> website. The navigation consists of a horizontal banner with a few links nested alongside the company&#8217;s logo.</p>
+<p>This is one of my favorite dropdown animations because it feels so lifelike. There&#8217;s a brief delay before the sub-menu drops and the colors make the whole navigation feel like one big ribbon. The devil is truly in the details where one little decision can either make or break a wonderful animation effect.</p>
+<h2><b>Expansive Page Motion</b></h2>
+<p>Perhaps the most difficult and high-risk style of web animation is a layout based on many various animated elements. There is no official name for this technique but the idea follows that a designer would create lots of different animations for the pageload, along with user interactions like mouse hovers.</p>
+<p>It&#8217;s risky because this can slow down a great website to a crawl with too much JavaScript. Running too many animations in sequence can be disastrous &#8211; but placing them in sync with a natural rhythm can make one of the most dynamic interfaces on the web.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.alectia.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/10-alectia-dark-website-homepage-animation.jpg" alt="alectia fully animated website" /></a><figcaption class="wp-caption-text">ALECTIA has a website primarily run via JavaScript.</figcaption></figure>
+<p>The large services company <a target="_blank" href="http://www.alectia.com/en/">ALECTIA</a> has a website primarily run via JavaScript. There are still full URLs to each page, however the page transitions load via Ajax. This means you can visit the <a target="_blank" href="http://www.alectia.com/en/services">services page directly</a> but it can also be loaded dynamically from the navigation.</p>
+<p>If you spend enough time browsing this site you&#8217;ll conclude that almost every element has some form of animation. While the animation techniques are incredibly impressive, what&#8217;s really interesting is how the website runs flawlessly. I experienced no lag time, no browser crash, and no visual bugs while navigating the site.</p>
+<p>ALECTIA is the pristine example of all-over animation. This is <strong>not</strong> an easy effect to pull off and certainly not good for every project. But when done properly a fully-animated website can become a hybrid web application and truly stand out as a game changer.</p>
+<h2><b>SVG Animation</b></h2>
+<p>One of the newer standards into the field of web animation is <a href="http://marketblog.envato.com/learn-something-new/getting-started-inline-svg/">SVG</a>. These are vector-based graphics which can be rendered, resized, and scaled naturally without any quality loss. Adobe Illustrator is the most popular program for creating SVGs but there are <a href="http://marketblog.envato.com/resources/tools-boost-your-svg-workflow/">other alternatives</a>.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://bjango.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/11-bjango-svg-css-animation-hover.jpg" alt="bjango svg animation navigation" /></a><figcaption class="wp-caption-text">The Bjango header has been created using two SVG images.</figcaption></figure>
+<p>The header design found on <a target="_blank" href="http://bjango.com/">Bjango</a> is absolutely superb. Each navigation link is created using two SVG images &#8211; the default text and the colorful hover text.</p>
+<p>All of the animation effects are created using CSS3 keyframes which animate the text larger and smaller in a &#8220;bouncy&#8221; motion. The keyframes use <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/transform"><code>transform:scale()</code></a> to first increase then decrease the size of the image.</p>
+<p>Since the text is an SVG it can be rendered and scaled quickly. Bjango has one of the simplest SVG animations because the animation is controlled via CSS and not the SVG. And while this effect is simply adorable keep in mind that older versions of IE 6-8 <a target="_blank" href="http://caniuse.com/svg">do not support SVG</a>.</p>
+<p>But as for modern web browsers SVG is fully supported and only gaining momentum. Since these graphics don&#8217;t rely solely on pixels they can be scaled, stretched, and definitely animated in a smooth manner. To learn more check out some <a target="_blank" href="http://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/">SVG animation tutorials</a> and see what you can build.</p>
+<h2><b>Final Thoughts</b></h2>
+<p>All of these trends have come together through an advancement of frontend technologies and browser standards. CSS animation is a powerful feature that has recently been gaining serious traction. I hope these trends can offer a picturesque look into the modern state of web design and the potential future of CSS web animation.</p>
+<p class="alert alert--inverse"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/tuts_logo.png" alt="Tuts+ logo" width="160" height="88" class="alignright size-full wp-image-38916" />If you&#8217;re looking to get started with CSS animation, Tuts+ have some handy courses that will get you going in no time: <a href="http://webdesign.tutsplus.com/courses/css-animation-in-the-real-world" target="_blank">CSS Animation in the Real World</a> and <a href="http://webdesign.tutsplus.com/courses/design-and-build-scroll-based-css-animations" target="_blank">Scroll-Based CSS Animations</a>.<br />They also have a great course for <a href="http://webdesign.tutsplus.com/courses/getting-started-with-svg-for-web-design" target="_blank">getting started with SVG</a> for web design.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/trends/css-animation-trends-in-web-design/">CSS Animation Trends in Web Design</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lNVKr2bGYaw:kUrR0FLb9wk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lNVKr2bGYaw:kUrR0FLb9wk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lNVKr2bGYaw:kUrR0FLb9wk:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lNVKr2bGYaw:kUrR0FLb9wk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lNVKr2bGYaw:kUrR0FLb9wk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lNVKr2bGYaw:kUrR0FLb9wk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lNVKr2bGYaw:kUrR0FLb9wk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lNVKr2bGYaw:kUrR0FLb9wk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lNVKr2bGYaw:kUrR0FLb9wk:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/lNVKr2bGYaw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/trends/css-animation-trends-in-web-design/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/trends/css-animation-trends-in-web-design/</feedburner:origLink></item>
+		<item>
+		<title>Detecting Mobile Devices with PHP</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/CvjV8E0xpdM/</link>
+		<comments>http://marketblog.envato.com/tips/detecting-mobile-devices-php/#comments</comments>
+		<pubDate>Wed, 11 Mar 2015 11:31:07 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Karkovack]]></dc:creator>
+				<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39063</guid>
+		<description><![CDATA[<p>What if you need to go about changing the actual content of a page to work rather than the layout for mobile visitors?</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/tips/detecting-mobile-devices-php/">Detecting Mobile Devices with PHP</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>These days, most web developers clearly understand the need to optimize a website for use on mobile devices. Usually this includes the implementation of <a href="https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/" target="_blank">responsive CSS</a> to create a great browsing experience for users of every screen size.</p>
+<p>However, there are times when changing the layout is not enough. What if you need to go about changing the actual content of a page to work better for mobile visitors?</p>
+<h2><b>An Example Use</b></h2>
+<p>Recently, I was faced with this very issue. I&#8217;d built a WordPress site for a client using an events registration plugin. Its calendar layout was fantastic on larger screens, but completely unusable on smaller ones. While it seemed easy enough to change some CSS around to make it more mobile-friendly, this turned into quite an adventure.</p>
+<p>After my attempts at reworking the CSS failed, I decided that it might be more efficient to simply list the upcoming events for mobile users rather than keeping the calendar format. But how?</p>
+<h2><b>Mobile Detect to the Rescue</b></h2>
+<p>A little research turned up <a href="http://mobiledetect.net/" target="_blank">Mobile Detect</a>, a PHP class that helps detect mobile devices. It uses user-agent strings and looks for specific HTTP headers in order to determine if a user is visiting from a mobile device. Then, using a simple PHP conditional statement, Mobile Detect will allow you to serve up separate content for mobile users.</p>
+<p class="alert alert--inverse">&#8220;<em>Every business should have a mobile detection script to detect mobile readers.</em>&#8221; &#8211; <strong>The Mobile Detect motto</strong>.</p>
+<p>It&#8217;s really a quite simple process. Just upload the Mobile Detect files to your server and place code similar to this in your template:</p>
+<pre class="prettyprint">
+&lt;?php 
+&#47;&#47; Mobile Detect Script
+define(&#39;__ROOT__&#39;, dirname(dirname(__FILE__)));
+require_once(__ROOT__.&#39;&#47;your-path-to&#47;Mobile_Detect.php&#39;); 
+$detect = new Mobile_Detect;
+?&gt;
+
+&lt;?php 
+&#47;&#47; If this is a phone (tablets excluded) display mobile-specific content.
+if( $detect-&gt;isMobile() &#038;&#038; !$detect-&gt;isTablet() ) { ?&gt;
+
+Mobile Content Goes Here...
+
+&lt;?php
+&#47;&#47; Non-mobile devices will get the default content.
+} else { ?&gt;
+
+Default Content Goes Here...
+
+&lt;?php } 
+&#47;&#47; End of the Mobile Detect conditional.
+?&gt;</pre>
+<p>The result is that on both computers and tablets, the default content displays. On phones, the mobile-specific content is displayed instead. This allowed me to bypass the not-so-user-friendly calendar layout completely on small screens.</p>
+<figure id="attachment_39064" style="width: 660px;" class="wp-caption aligncenter"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/mobile-detect-1-660x235.png" alt="Desktop users see a calendar (left), while mobile users see a simple listing of events (right)." width="660" height="235" class="size-large wp-image-39064" /><figcaption class="wp-caption-text">Desktop users see a calendar (left), while mobile users see a simple listing of events (right).</figcaption></figure>
+<h2><b>Concluding</b></h2>
+<p>If you decide to use Mobile Detect, be aware that you actually have to view your site on a mobile device in order to see that custom content. A web designer&#8217;s first instinct is often to resize their desktop browser to do a quick check of how their responsive code is working (plus, it&#8217;s fun). That won&#8217;t work with Mobile Detect since it needs to see that a visitor is using a mobile user-agent.</p>
+<p>So, don&#8217;t be alarmed if you don&#8217;t see the content on your desktop or laptop. Pulling up the site on a phone will do the trick.</p>
+<p>Overall, I found Mobile Detect very easy to implement and it provided much-needed functionality to my project. It will make a great addition to your toolbox.</p>
+<p class="alert alert--blue">I should also note that there are <a href="https://github.com/serbanghita/Mobile-Detect#3rd-party-modules--submit-new" target="_blank">3rd party plugins</a> that use Mobile Detect for <a href="https://wordpress.org/plugins/wp-mobile-detect/" target="_blank">WordPress</a>, <a href="http://www.yagendoo.com/en/blog/free-mobile-detection-plugin-for-joomla.html" target="_blank">Joomla!</a>, <a href="https://www.drupal.org/project/mobile_detect" target="_blank">Drupal</a> and other platforms as well.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/tips/detecting-mobile-devices-php/">Detecting Mobile Devices with PHP</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=CvjV8E0xpdM:ClzQPnWPvNI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=CvjV8E0xpdM:ClzQPnWPvNI:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=CvjV8E0xpdM:ClzQPnWPvNI:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=CvjV8E0xpdM:ClzQPnWPvNI:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=CvjV8E0xpdM:ClzQPnWPvNI:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=CvjV8E0xpdM:ClzQPnWPvNI:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=CvjV8E0xpdM:ClzQPnWPvNI:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=CvjV8E0xpdM:ClzQPnWPvNI:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=CvjV8E0xpdM:ClzQPnWPvNI:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/CvjV8E0xpdM" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/tips/detecting-mobile-devices-php/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/tips/detecting-mobile-devices-php/</feedburner:origLink></item>
+		<item>
+		<title>20 Powerful PHP Scripts for Adding Extra Functionality to Your Site</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/2Q4wc2Cv_4U/</link>
+		<comments>http://marketblog.envato.com/resources/20-powerful-php-scripts-for-adding-extra-functionality-to-your-site/#comments</comments>
+		<pubDate>Tue, 10 Mar 2015 12:07:06 +0000</pubDate>
+		<dc:creator><![CDATA[Sufyan bin Uzayr]]></dc:creator>
+				<category><![CDATA[Resources]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39613</guid>
+		<description><![CDATA[<p>We have collected some of the most useful PHP scripts that every web developer should have safely stored in their development toolbox.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/resources/20-powerful-php-scripts-for-adding-extra-functionality-to-your-site/">20 Powerful PHP Scripts for Adding Extra Functionality to Your Site</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Readymade <a target="_blank" href="http://codecanyon.net/category/php-scripts">PHP Scripts</a> can be very useful for web developers, especially when you are looking to directly implement a particular functionality in your projects, and wish to save time by not having to meddle with or worry about the most basic of features, such as contact forms or a chat box.</p>
+<p>In this post, I have put together some of the most useful PHP scripts that a web developer should surely take a look at. So without wasting any more time, let us check out these awesome scripts that make our lives as developers easier.</p>
+<hr />
+<h2><b>YouTube Music Engine</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/youtube-music-engine/7490975">YouTube Music Engine</a> lets you create a music player of sorts &#8212; users can add tracks to a playlist, choose songs, and listen to the collection of their choice. It also adds support for lyrics engine, advertisement systems, comment systems such as Disqus, and so on.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/youtube-music-engine/7490975"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_02.jpg" alt="YouTube Music Engine" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Droppy &#8212; Online File Sharing</b></h2>
+<p>As the name suggests, <a target="_blank" href="http://codecanyon.net/item/droppy-online-file-sharing/10575317">Droppy &#8212; Online File Sharing</a> lets you share multiple files with users. It supports SMTP, is translation ready and can be used to secure files via passwords.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/droppy-online-file-sharing/10575317"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_03.jpg" alt="Droppy -- Online File Sharing" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Layered Popups</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/layered-popups/6027291">Layered Popups</a> lets you create multi-layered popup windows. You can create AJAX-based forms and even integrate the same with services such as Campaign Monitor and MailChimp.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/layered-popups/6027291"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_04.jpg" alt="Layered Popups" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Contact Form Generator</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/contact-form-generator-form-builder/1719810">Contact Form Generator</a> is a simple script that helps you create feedback forms or online surveys. The forms are fully responsive, and can be integrated with MailChimp and Aweber.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/contact-form-generator-form-builder/1719810"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_05.jpg" alt="Contact Form Generator" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Social Meet Script</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/social-meet-script/9953591">Social Meet Script</a> is a Tinder-style script that creates a social networking site with geolocation search, support for advertisements, and user profiles. It integrates well with PayPal, and also support Bootstrap templates. Plus, it is backwards-compatible with several browsers, including IE 6!</p>
+<p><a target="_blank" href="http://codecanyon.net/item/social-meet-script/9953591"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_06.jpg" alt="Social Meet Script" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Simple Invoice Manager &#8212; Invoicing Made Easy</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/simple-invoice-manager-invoicing-made-easy/4259689">Simple Invoice Manager &#8212; Invoicing Made Easy</a> is a PHP script to manage your invoices, payments, quotations and other client related information. It supports Bootstrap, is responsive, and even integrates with popular payment solutions such as PayPal and Skrill.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/simple-invoice-manager-invoicing-made-easy/4259689"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_07.jpg" alt="Simple Invoice Manager -- Invoicing Made Easy" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Premium URL Shortener</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/premium-url-shortener/3688135">Premium URL Shortener</a> is a handy solution to shorten URLs, implement URL bookmarks, etc. It features a responsive layout based on Bootstrap, and offers seamless social<br />
+networking integration and is backed by separate jQuery and    <a target="_blank" href="http://codecanyon.net/item/premium-url-shortener-wordpress-plugin/6726829">WordPress</a> plugins as well.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/premium-url-shortener/3688135"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_08.jpg" alt="Premium URL Shortener" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Facebook Multi-Page &amp; Group Poster</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/facebook-multipagegroup-poster/8496644">Facebook Multi-Page &amp; Group Poster</a> lets you publish content to Facebook pages and groups. If you are managing multiple Facebook pages and groups for your business or personal use, you can use this script to post content such as statuses, images, videos, quotes, and virtually everything else that Facebook allows.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/facebook-multipagegroup-poster/8496644"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_09.jpg" alt="Facebook Multi-Page &amp; Group Poster" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Dynamic Website Compressor</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/dynamic-website-compressor/2838376">Dynamic Website Compressor</a> lets you minify HTML, CSS and JS on the fly. You can easily minimize the size of your overall code, and this can help boost the performance of the overall web page in terms of speed. This script requires no coding skills and is fully compatible with CMSs such as WordPress, Joomla! and Magento.</p>
+<hr />
+<h2><b>Freelance Cockpit 2 &#8212; Project Management</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/freelance-cockpit-2-project-management/4203727">Freelance Cockpit 2 &#8212; Project Management</a> is built to help freelancers manage their projects. It lets you keep track of support tickets, client details, invoices and recurring billing, etc. It integrates well with PayPal, supports Bootstrap templates and is fully responsive and translation ready.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/freelance-cockpit-2-project-management/4203727"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_10.jpg" alt="Freelance Cockpit 2 -- Project Management" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>PHP Flat Visual Chat</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/php-flat-visual-chat/8641929">PHP Flat Visual Chat</a><br />
+offers real time chat functionality that can be integrated with any PHP-powered website. It has a responsive design, and is also available in a    <a target="_blank" href="http://codecanyon.net/item/wp-flat-visual-chat/8329900">separate version for WordPress users</a>.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/php-flat-visual-chat/8641929"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_11.jpg" alt="PHP Flat Visual Chat" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>NewsMaker &#8212; CMS and Social Network</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/newsmaker-cms-and-social-network/9788299">NewsMaker &#8212; CMS and Social Network</a> is a script to create a website with user-generated content. It features the functionality to upload and input content, including images, video and other media, as well as seamlessly share it across other social networks too. It can integrate with services such as Google Analytics and is fully responsive.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/newsmaker-cms-and-social-network/9788299"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_12.jpg" alt="NewsMaker -- CMS and Social Network" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Android Push Notification Using GCM</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/android-push-notification-using-gcm/10438688">Android Push Notification Using GCM</a> is a handy script that can send push notifications to Android users. If you coding for Android and need to handle server side requests in order to send push notifications via Google Cloud Services, but are unsure how to do the same, this PHP script is the solution you are looking for!</p>
+<hr />
+<h2><b>PHP Flat Estimation and Payment Forms</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/php-flat-estimation-payment-forms/10550735">PHP Flat Estimation and Payment Forms</a><br />
+lets you create simple and responsive cost estimates and payment forms. It works with virtually every PHP platform out there, but a    <a target="_blank" href="http://codecanyon.net/item/wp-flat-estimation-payment-forms-/7818230">separate version for WordPress users</a> is also available.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/php-flat-estimation-payment-forms/10550735"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_14.jpg" alt="PHP Flat Estimation and Payment Forms" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Quform &#8212; Responsive AJAX Contact Form </b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/quform-responsive-ajax-contact-form/148273">Quform &#8212; Responsive AJAX Contact Form</a> is a feedback and contact form solution that can easily be embedded into any web page within minutes.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/quform-responsive-ajax-contact-form/148273"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_15.jpg" alt="Quform -- Responsive AJAX Contact Form" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Auto Grid Responsive Gallery</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/auto-grid-responsive-gallery/3864088">Auto Grid Responsive Gallery</a> seeks and locates images from the specified set of folders, and creates a responsive gallery using those images. It can automatically generate thumbnails, so you need not worry about anything else.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/auto-grid-responsive-gallery/3864088"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_16.jpg" alt="Auto Grid Responsive Gallery" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>User Login Register and User Management</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/user-login-register-and-user-management/9617985">User Login Register and User Management</a> offers user registration, login and other management solutions.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/user-login-register-and-user-management/9617985"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_17.jpg" alt="User Login Register and User Management" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Owl Chat &#8212; Responsive Chat Community</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/owl-chat-responsive-chat-community/10546841">Owl Chat &#8212; Responsive Chat Community</a> is a responsive messaging script that offers support for embedded links, images and even YouTube videos. It also supports custom emojis and advertisements.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/owl-chat-responsive-chat-community/10546841"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_18.jpg" alt="Owl Chat -- Responsive Chat Community" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Freelancer Office</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/freelancer-office/8870728">Freelancer Office</a> is a PHP script for project management and productivity. It offers features such as a ticketing system, a planner, scheduling and task management, file manager, private messaging and invoices.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/freelancer-office/8870728"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_19.jpg" alt="Freelancer Office" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Translate It</b></h2>
+<p><a target="_blank" href="http://codecanyon.net/item/translate-it/1270898">Translate It</a> is a free alternative to Google Translate API. It can automatically detect the current language and supports multiple languages.</p>
+<p><a target="_blank" href="http://codecanyon.net/item/translate-it/1270898"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/php_scripts_20.jpg" alt="Translate It" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<p class="alert alert--inverse"><img src="http://marketblog.envato.com/wp-content/uploads/2015/03/tuts_logo.png" alt="Tuts+ logo" width="160" height="88" class="alignright size-full wp-image-38916" />If you&#8217;re new to PHP, <a target="_blank" href="http://code.tutsplus.com/tutorials/php-101--pre-73284">PHP 101</a> is where you should start. If you have some PHP experience, you might like to have a look at the tutorial series <a target="_blank" href="http://code.tutsplus.com/series/building-your-startup-with-php--cms-742">Building a Startup With PHP</a>.</p>
+<h2><b>Finished!</b></h2>
+<p>Which of these PHP scripts is your favorite? Got any that I missed? Share it with the world using the comments below!</p>
+<p>There are currently over <a target="_blank" href="http://codecanyon.net/category/php-scripts">2,500 PHP scripts</a> available over on CodeCanyon, covering almost every possible functionality you can think of.</p>
+<p><a target="_blank" href="http://codecanyon.net/category/php-scripts" class="btn btn--size-l btn--full-width">Browse <strong>PHP Scripts </strong>on CodeCanyon &rarr;</a></p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/resources/20-powerful-php-scripts-for-adding-extra-functionality-to-your-site/">20 Powerful PHP Scripts for Adding Extra Functionality to Your Site</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=2Q4wc2Cv_4U:_UuNjlBC8F8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=2Q4wc2Cv_4U:_UuNjlBC8F8:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=2Q4wc2Cv_4U:_UuNjlBC8F8:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=2Q4wc2Cv_4U:_UuNjlBC8F8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=2Q4wc2Cv_4U:_UuNjlBC8F8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=2Q4wc2Cv_4U:_UuNjlBC8F8:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=2Q4wc2Cv_4U:_UuNjlBC8F8:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=2Q4wc2Cv_4U:_UuNjlBC8F8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=2Q4wc2Cv_4U:_UuNjlBC8F8:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/2Q4wc2Cv_4U" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/resources/20-powerful-php-scripts-for-adding-extra-functionality-to-your-site/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/resources/20-powerful-php-scripts-for-adding-extra-functionality-to-your-site/</feedburner:origLink></item>
+		<item>
+		<title>Clean, Readable &amp; Modern Web Typography</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/N8063Akqajg/</link>
+		<comments>http://marketblog.envato.com/trends/clean-readable-modern-web-typography/#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 09:47:53 +0000</pubDate>
+		<dc:creator><![CDATA[Jake Rocheleau]]></dc:creator>
+				<category><![CDATA[Trends]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39069</guid>
+		<description><![CDATA[<p>This post takes a look at the latest design trends for common web typography.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/trends/clean-readable-modern-web-typography/">Clean, Readable &#038; Modern Web Typography</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Much in the same way clothes make the man, clean typography makes great content. Readable content is a huge part of every website. But one important pillar of readable content is quality design.</p>
+<p>This post will take a look at <a href="http://marketblog.envato.com/category/trends/">modern design trends</a> for common web typography. Design might include basics like font size and font family, all the way through more complex ideas like vertical spacing and line height. Typography design is best understood by analyzing other prominent websites to figure out why their text reads so well on the digital screen.</p>
+<h2><b>Clean &#038; Styled Navigation</b></h2>
+<p><a href="http://marketblog.envato.com/resources/responsive-navigation-solutions-resources/">Every navigation</a> will be styled differently based on each website&#8217;s layout. But when it comes to typography some general rules can be applied. For example, clean symmetrical typography can be used to identify similar navigation links as one group.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://punkave.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/01-punk-ave-website-homepage-nav-typography.jpg" alt="punk ave website homepage typography design" /></a><figcaption class="wp-caption-text">P&#8217;unk Avenue is a great demonstration of large usable navigation.</figcaption></figure>
+<p><a target="_blank" href="http://punkave.com/">P&#8217;unk Avenue</a> is a great demonstration of large usable navigation. Each link follows a similar design format with a decimal, all-caps link text, and a bit of subtext. Their design may be a little showy but it&#8217;s a fantastic example of how to use symmetrical design to your advantage.</p>
+<p>Another fantastic design can be found at <a target="_blank" href="https://www.servemanager.com/">ServeManager.com</a>. They use plenty of space between each link, along with oversized typography which really stands out against the header. Contrast is bright so it&#8217;s very clear these links are primary navigation items.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="https://www.servemanager.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/02-serve-manager-dark-blue-navigation.jpg" alt="serve manager dark website layout inspiration" /></a><figcaption class="wp-caption-text">ServeManager use plenty of space between each link.</figcaption></figure>
+<p>Usable nav links are created through some contrast and juxtaposition. If your navigation blends into the header then it&#8217;ll be more difficult to notice. At a glance it should be blatantly obvious how to navigate through your website. One reliable strategy is to use a larger font with a clean text style that stands out against the background.</p>
+<h2><b>Distinguished Heading Text</b></h2>
+<p>Page headings can serve different purposes in different circumstances. Typography defines how loud each heading should be, and how much attention will be drawn from the visitor.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://andrewelsass.com/about/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/03-andrew-elsass-portfolio-header.jpg" alt="andrew elsass portfolio about header" /></a><figcaption class="wp-caption-text">The about page from Andrew Elsass uses a large heading with a fullscreen background.</figcaption></figure>
+<p>One great example is the portfolio of <a target="_blank" href="http://andrewelsass.com/about/">Andrew Elsass</a>. His about page uses a large heading with a fullscreen background to draw instant attention. The page content itself is separated by other headings which are less noticeable but still serve their job well.</p>
+<p>Static-content websites have many pages just like this where a main heading sits above other sub-headings. You can make the page headings stand out by using bright colors, icons, backgrounds, borders, or even unique font families. Other sites may prefer to just enlarge the regular page text for a more traditional style.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.wired.co.uk/reviews/gadgets/2015-02/new-nintendo-3ds-final-verdict"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/04-wired-co-uk-article-header-typography.jpg" alt="wired co uk magazine typography" /></a><figcaption class="wp-caption-text">The Wired article heading is large enough to stand out as a headline.</figcaption></figure>
+<p>This technique can be found in many online magazines like <a target="_blank" href="http://www.wired.co.uk/reviews/gadgets/2015-02/new-nintendo-3ds-final-verdict">Wired</a>. The article heading is large enough to stand out as a headline, but not large enough to take up enormous space on the page.</p>
+<p>Headings are meant to denote a break in content. Most designers create styles for h1-h4 tags because it&#8217;s unlikely that any website would delve below a fourth sub-heading. Each heading&#8217;s style should reflect the level of authority if holds over the entire page. Readers should be able to ascertain which topics are included inside other headers based on design alone.</p>
+<p>Font size is the most common design property to communicate hierarchy. But you might consider testing other ideas like bold &#038; thin font weights or even adjusted letter spacing.</p>
+<h2><b>Readable Paragraph Text</b></h2>
+<p>Every website that includes some content will use paragraphs. Whether they&#8217;re only 1-sentence long or written as blocks of text that span the entire page &#8211; paragraphs are important. But honestly please don&#8217;t write illegible blocks of text because even the Devil himself will cringe.</p>
+<p>Formatting is crucial to well-structured paragraphs. But formatting is generated by the style, spacing, and position of typography. For example it&#8217;s generally wise to err on the side of larger text rather than smaller. Likewise it&#8217;s a good idea to increase paragraph line heights instead of keeping every line tucked close together.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="https://medium.com/@Paperfold/10-things-startups-can-learn-from-origami-3d3741b18c29"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/05-startup-medium-article-paragraph-typography.jpg" alt="big typography paragraphs medium website design" /></a><figcaption class="wp-caption-text">The typography from Medium is great for any screen size</a>txt.</figcaption></figure>
+<p><a target="_blank" href="https://medium.com/">Medium.com</a> is a new blogging platform that uses a similar design style for each blog. Their typography is great for any screen size because it offers enough space between lines and between paragraphs. Users generally won&#8217;t mind scrolling a bit more if it means they can read your content easier from a distance.</p>
+<p>Anywhere from 2x-5x the line height between each paragraph is a sturdy margin number. A safe bottom margin on medium-sized paragraph text would be 15px-20px. If you want to have space that naturally resizes go for a value in ems.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://magazine.good.is/articles/bill-gates-stephen-hawking-elon-musk-artificial-intelligence"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/06-good-magazine-paragraphs-text-design.jpg" alt="good magazine typography text" /></a><figcaption class="wp-caption-text">Serif fonts won&#8217;t present a problem, so long as they&#8217;re sized properly.</figcaption></figure>
+<p>When it comes to the font choice many designers feel that sans-serif fonts are easier to read on the web. Serif fonts won&#8217;t present a problem, so long as they&#8217;re sized properly. Paragraph font choice really depends on the type of website.</p>
+<p>A lot of online magazines and news blogs will stick to serif fonts as a means of duplicating the style of real-world newspapers. But the vast majority of websites from companies to portfolios and forums will use sans-serif. Just find whatever font works best for each project.</p>
+<h2><b>Action-Oriented Hyperlinks</b></h2>
+<p>Hyperlinks are one of the few areas in page text which are interactive. Most of the time visitors are reading through your page in a passive state. But hyperlinks require activity(a click) for visitors to access the external URL.</p>
+<p>As such you&#8217;ll want to design hyperlinks so that they appear &#8220;clickable&#8221;. Great link design is <a target="_blank" href="http://www.smashingmagazine.com/2010/02/13/the-definitive-guide-to-styling-web-links/">a lengthy subject</a> but generally explains the difference between static &#038; interactive content. The link hover state should also be noticeable whenever a visitor hovers their mouse over a hyperlink.</p>
+<p>Great UX design should inherently convey that text is clickable without any interaction. This is traditionally accomplished using underlines and alternative text colors &#8211; but you can get a little obscure with background colors or varied letter spacing.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.danparis.fr/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/07-dan-paris-agency-website-design.jpg" alt="dan paris agency website layout" /></a><figcaption class="wp-caption-text">Links found in the DAN Paris menu have a dynamic underline effect on hover.</figcaption></figure>
+<p>One example which may be seen as <em>avant-garde</em> is the agency website for <a target="_blank" href="http://www.danparis.fr/">DAN Paris</a>. The links found in their top navigation menu have a dynamic underline effect on hover. You&#8217;ll notice that a quick underline flashes across the link from left to right. This is certainly a more convoluted example but it captures attention.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="lrFKj" data-default-tab="result" data-user="rupertone" class='codepen'>See the Pen <a href='http://codepen.io/rupertone/pen/lrFKj/'>Hover effect anchor tags</a> by Eugenio (<a href='http://codepen.io/rupertone'>@rupertone</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p><script async src="//assets.codepen.io/assets/embed/ei.js"></script></p>
+<p>Perhaps a more straightforward example is <a target="_blank" href="http://codepen.io/rupertone/pen/lrFKj">this Codepen entry</a> (above) which utilizes CSS3 animation. The hover effect animates two curly brackets which extend onto either side of the link. It&#8217;s a unique effect that will no doubt draw attention from visitors.</p>
+<p data-height="314" data-theme-id="0" data-slug-hash="ychAK" data-default-tab="result" data-user="kentliau" class='codepen'>See the Pen <a href='http://codepen.io/kentliau/pen/ychAK/'>Link Hover Effect #1</a> by Kent (<a href='http://codepen.io/kentliau'>@kentliau</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p><script async src="//assets.codepen.io/assets/embed/ei.js"></script></p>
+<p>If you need more link style ideas browse through some of the popular cloud IDEs like <a target="_blank" href="http://codepen.io/">CodePen</a>, <a target="_blank" href="http://jsfiddle.net/">jsFiddle</a>, or <a target="_blank" href="http://cssdeck.com/">CSS Deck</a>. Some of the styles may use experimental or poorly-supported code, but they&#8217;ll surely evoke new ideas which you can redesign based on each project.</p>
+<h2><b>Eccentric Blockquotes</b></h2>
+<p>Not every article or webpage contains a blockquote. Yet when they are used it&#8217;s a good idea to convey that the text is clearly a quote or copy from somewhere else.</p>
+<p>Many designers like to float blockquotes over to the side of paragraphs. These are known as <strong>pull quotes</strong> which may copy text from elsewhere in the article, or from a person mentioned in the article. Both of these text formats are very similar and should be distinguishable from regular page copy.</p>
+<p>Take a look at the detailed <a target="_blank" href="http://www.hongkiat.com/blog/stylish-blockquotes-pullquotes/">Hongkiat post on blockquotes</a>. It covers the gamut of fantastic design ideas from alternative colors to background quotation mark icons. But in many cases simplicity is victorious over excessive design.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://www.theverge.com/2015/2/4/7977963/fcc-net-neutrality-victory"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/10-the-verge-magazine-blockquote-typography.jpg" alt="the verge magazine pullquote design" /></a><figcaption class="wp-caption-text">This pull quote style uses more visible color which is enlarged and italicized.</figcaption></figure>
+<p>The example above is from <a target="_blank" href="http://www.theverge.com/2015/2/4/7977963/fcc-net-neutrality-victory">The Verge</a> which is an online media magazine. Their pull quote style simply uses more visible color which is enlarged and italicized. There&#8217;s no distinction between content other than some padding. And in this scenario it works perfectly.</p>
+<p>When designing an inner-page text style whether it&#8217;s a blockquote or code snippet, aim for clarity through design. Let readers know that the block of text is not a paragraph by adjusting font properties wildly against the website&#8217;s traditional style. This is often a great reason to incorporate a second font family so that these blocks will clearly stand out.</p>
+<h2><b>Styling Oversized Typography</b></h2>
+<p>The trend of oversized text has grown into a modern design phenomenon. All sorts of layouts from parallax landing pages to corporate designs are using oversized typography.</p>
+<p>With the release of <a target="_blank" href="https://www.google.com/fonts">Google Web Fonts</a> it has become easier to incorporate various custom fonts into a webpage. And with faster Internet speeds there is little downside to including multiple fonts in an appropriate manner.</p>
+<p>Big typography is attractive because it can be read much easier. More websites are becoming responsive and more people are visiting websites on their smartphones. These tiny screens can average 2-3 inches wide so it&#8217;s nice to support mobile visitors with clearly-legible page text.</p>
+<figure id="attachment_39064" style="width: 600px;" class="wp-caption aligncenter"><a target="_blank" href="http://illusion.scene360.com/"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/11-illusion-magazine-large-typography-design.jpg" alt="illusion magazine large typography web design" /></a><figcaption class="wp-caption-text">The Illusion Magazine layout focuses more on composition, symmetry, and balance.</figcaption></figure>
+<p>Check out the text-heavy design for <a target="_blank" href="http://illusion.scene360.com/">Illusion Magazine</a>. The layout focuses more on composition, symmetry, and balance between content areas. This is another good example of when oversized typography works best.</p>
+<p>Websites that predominantly focus on text will benefit from increased font sizes. Larger page elements will naturally draw attention, so if page copy is an important design feature it&#8217;s a good idea to increase the font size to fill out more space.</p>
+<p>This methodology is by no means a requirement, but it&#8217;s helpful to keep in mind when designing typography for text-heavy websites.</p>
+<h2><b>Closing</b></h2>
+<p>Designing a website from scratch is no easy task. The process includes a lot of abstract ideas like theme, style, and composition. But typography is a much more tangible subject that has more tangible solutions.</p>
+<p>Hopefully these <a href="http://marketblog.envato.com/category/trends/">trends</a> can be put to good use by designers who are looking to improve their website interfaces. Although solid page content is very important, the aesthetic design of text is often what persuades visitors to continue reading.</p>
+<p><a href="http://marketblog.envato.com/category/trends/" class="btn btn--full-width">Brwose the Trends Archives &rarr;</a></p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/trends/clean-readable-modern-web-typography/">Clean, Readable &#038; Modern Web Typography</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=N8063Akqajg:S7ImjMKek2k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=N8063Akqajg:S7ImjMKek2k:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=N8063Akqajg:S7ImjMKek2k:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=N8063Akqajg:S7ImjMKek2k:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=N8063Akqajg:S7ImjMKek2k:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=N8063Akqajg:S7ImjMKek2k:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=N8063Akqajg:S7ImjMKek2k:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=N8063Akqajg:S7ImjMKek2k:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=N8063Akqajg:S7ImjMKek2k:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/N8063Akqajg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/trends/clean-readable-modern-web-typography/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/trends/clean-readable-modern-web-typography/</feedburner:origLink></item>
+		<item>
+		<title>Cloudrise – a Stunning Animated Short about Lovers and Sky Pirates</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/BrJMnlWw0BA/</link>
+		<comments>http://marketblog.envato.com/video-of-the-week/cloudrise-a-stunning-animated-short-about-lovers-and-sky-pirates/#comments</comments>
+		<pubDate>Sun, 08 Mar 2015 12:07:50 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Andrew]]></dc:creator>
+				<category><![CDATA[Video of the Week]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39773</guid>
+		<description><![CDATA[<p>Cloudrise is a stunning and gripping short animated movie set in a fantasy, almost steampunk world high above the clouds.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/video-of-the-week/cloudrise-a-stunning-animated-short-about-lovers-and-sky-pirates/">Cloudrise &#8211; a Stunning Animated Short about Lovers and Sky Pirates</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Cloudrise is a stunning and gripping short animated movie set in a fantasy, almost steampunk world high above the clouds. The main characters are Miko and Tenku, two lovers that have to fight to survive as their airship, after an attack from sky pirates, begins to plunge dangerously from the sky.</p>
+<p><iframe src="https://player.vimeo.com/video/119430601?color=d79ce6&#038;title=0&#038;byline=0&#038;portrait=0&#038;badge=0" width="660" height="371" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>The eight-minute minute short movie was created in only four months by Denver Jackson, a director with no previous animation or illustration experience. He just wanted to tell a &#8216;great story&#8217;. And a great story it is!</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/video-of-the-week/cloudrise-a-stunning-animated-short-about-lovers-and-sky-pirates/">Cloudrise &#8211; a Stunning Animated Short about Lovers and Sky Pirates</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=BrJMnlWw0BA:QVXpjUa28Vk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=BrJMnlWw0BA:QVXpjUa28Vk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=BrJMnlWw0BA:QVXpjUa28Vk:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=BrJMnlWw0BA:QVXpjUa28Vk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=BrJMnlWw0BA:QVXpjUa28Vk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=BrJMnlWw0BA:QVXpjUa28Vk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=BrJMnlWw0BA:QVXpjUa28Vk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=BrJMnlWw0BA:QVXpjUa28Vk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=BrJMnlWw0BA:QVXpjUa28Vk:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/BrJMnlWw0BA" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/video-of-the-week/cloudrise-a-stunning-animated-short-about-lovers-and-sky-pirates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/video-of-the-week/cloudrise-a-stunning-animated-short-about-lovers-and-sky-pirates/</feedburner:origLink></item>
+		<item>
+		<title>A Week in Review N.28</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/YFmC78t5gac/</link>
+		<comments>http://marketblog.envato.com/news/a-week-in-review-n-28/#comments</comments>
+		<pubDate>Sat, 07 Mar 2015 08:45:18 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Andrew]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39682</guid>
+		<description><![CDATA[<p>We share with you guys everything that has been going on this past couple of week at Envato and beyond.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/news/a-week-in-review-n-28/">A Week in Review N.28</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h4><b>Envato Roundup</b></h4>
+<ul>
+<li>You can now add a <a href="http://marketblog.envato.com/releases/custom-footer/">Business Number and a custom invoice footer</a> to invoices.</li>
+<li>Tuts+ have launched a <a href="http://webdesign.tutsplus.com/articles/codepen-challenge-1-style-section-links-with-css--cms-23527">Codepen Challenge community project</a>.</li>
+<li>There&#39;s some fantastic <a href="http://business.tutsplus.com/articles/new-opportunity-for-freelance-writers-at-envato-studio--cms-23528">opportunities for freelance writers</a> at Envato Studio.</li>
+<li>Our Ryan Terry (Lead Designer at Disney) <a href="http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/">interview was published</a>.</li>
+<li><a href="http://studioblog.envato.com/meet-riley-studio-reviewsupport-liaison-generally-awesome-guy/">You can meet Riley</a>, Studio review/support liaison over on Studio Blog.</li>
+<li><a href="http://studioblog.envato.com/meet-hasanet-programmer-extraordinaire-and-top-selling-freelancer-on-studio/">You can also meet Hasanet</a>, programmer extraordinaire and top-selling freelancer.</li>
+</ul>
+<h4><b>Master Video in Web Design</b></h4>
+<ul>
+<li>Our <a target="_blank" href="http://marketblog.envato.com/video-background-web-design/">Master Video in Web Design</a> event only has a couple of days to go!</p>
+<ul>
+<li><a href="http://marketblog.envato.com/tips/video-background-html5-video/">Full-Screen Video Background with HTML5 Video</a></li>
+<li><a href="http://marketblog.envato.com/resources/plugins-video-backgrounds/">10 Plugins for Quickly Adding Video Backgrounds to Your Own Site</a></li>
+<li><a href="http://marketblog.envato.com/resources/video-background-themes-templates/">20 Themes and Templates with Video Backgrounds</a></li>
+<li><a href="http://marketblog.envato.com/learn-something-new/learn-something-new-adobe-effects/">Getting Started with Adobe After Effects</a></li>
+</ul>
+</li>
+</ul>
+<h4><b>Design Community</b></h4>
+<ul>
+<li>How many glyphs are there in a Chinese font set? Does Chinese have &#8220;serifs&#8221; and &#8220;sans-serifs&#8221;? All answers can be found in the <a href="http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444">complete beginner’s guide to Chinese fonts</a>.</li>
+<li>You can join Joumana Medlej in the beginners learning guide on <a href="http://design.tutsplus.com/tutorials/creative-arabic-calligraphy-kashida-tajim-and-tashkil--cms-23240">Creative Arabic Calligraphy</a>.</li>
+<li>Here are five lessons learned from <a href="http://studioblog.envato.com/pivoting-your-business-model/">pivoting on your business model</a>.</li>
+<li>Do you want to be a <a href="http://design.tutsplus.com/articles/so-you-want-to-be-a-freelance-illustrator--cms-23239">freelance illustrator</a>?</li>
+</ul>
+<h4><b>New Resources &#038; Tools</b></h4>
+<ul>
+<li><a href="https://www.muicss.com/">MUI</a> &#8211; A lightweight Material Design CSS framework.</li>
+<li><a href="http://sarasoueidan.com/tools/circulus/">CIRCULUS.SVG</a> &#8211; An SVG circular menu generator.</li>
+<li><a href="https://www.npmjs.com/package/gitgoodies">gitgoodies</a> &#8211; A collection of shortcuts for the Git commands you use everyday.</li>
+</ul>
+<p><b>Have a great weekend!</b></p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/news/a-week-in-review-n-28/">A Week in Review N.28</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=YFmC78t5gac:jglFedJyFfk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=YFmC78t5gac:jglFedJyFfk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=YFmC78t5gac:jglFedJyFfk:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=YFmC78t5gac:jglFedJyFfk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=YFmC78t5gac:jglFedJyFfk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=YFmC78t5gac:jglFedJyFfk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=YFmC78t5gac:jglFedJyFfk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=YFmC78t5gac:jglFedJyFfk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=YFmC78t5gac:jglFedJyFfk:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/YFmC78t5gac" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/news/a-week-in-review-n-28/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/news/a-week-in-review-n-28/</feedburner:origLink></item>
+		<item>
+		<title>Meet our Community Superstars for February</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/IKEpk5ccM80/</link>
+		<comments>http://marketblog.envato.com/community/meet-our-community-superstars-for-february/#comments</comments>
+		<pubDate>Fri, 06 Mar 2015 21:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[Scott]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39677</guid>
+		<description><![CDATA[<p>Come meet our Envato Market Community Superstars for February 2015!</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/community/meet-our-community-superstars-for-february/">Meet our Community Superstars for February</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p class="lead">We&#8217;ve got three more community members who made a difference in the past month! Read on to see who stood out and made a positive impact!</p>
+<h4>Community Driven Graphics</h4>
+<p>Many thanks to <a href="http://graphicriver.net/user/GraphicExpert%20">GraphicExpert</a> for creating the lovely graphics used throughout this month&#8217;s superstar announcement!</p>
+<p>Each month we select a community submitted template and use it in our blog post. If<em> you&#8217;d</em> like to submit a template to show off your pixel prowess, see our <a href="http://graphicriver.net/forums/thread/designed-by-the-community-for-the-community/148322">Designed by the Community</a> blog post! In exchange for your efforts we&#8217;ll give full credit in our superstar post and award you the Amazing Forum Superstar badge. Well done again, <strong>GraphicExpert</strong>! New badge unlocked!</p>
+<h4><strong>surjithctly</strong></h4>
+<p><img class="alignnone size-large wp-image-39705" src="http://marketblog.envato.com/wp-content/uploads/2015/03/surjithctly-660x150.jpg" alt="" width="660" height="150" /></p>
+<p><a href="http://themeforest.net/user/Surjithctly">Surjithctly</a> really caught our eye this month with the release of his awesome Chrome Extension called <a href="https://chrome.google.com/webstore/detail/better-envato/mlbkjbladkceacbifjpgimbkibhgbadf?hl=en">Better Envato</a>.</p>
+<p>The extension, which offers useful utility for Envato Market authors, provides features such as desktop sales notifications, comment notifications, ability to display earnings in your own currency, and much more! In fact, there&#8217;s a <a href="http://3docean.net/forums/thread/the-wait-is-over-desktop-comment-notification-and-more-introducing-better-envato/163855">forum thread dedicated to feedback</a> and suggestions which surjithctly actively monitors, so swing-by and say &#8220;hi!&#8221; if you use or are planning to use the Better Envato Chrome extension!</p>
+<p>If that wasn&#8217;t enough, surjithctly also took some time in the past week or so to offer some great suggestions for new community badges to serve our entire community, and he has also been a very positive influence in our forums as a whole lately with helpful answers to fellow members. Very well done, surjithctly!</p>
+<h4>DigitalScience</h4>
+<p><img class="alignnone size-large wp-image-39703" src="http://marketblog.envato.com/wp-content/uploads/2015/03/digitalscience-660x150.jpg" alt="" width="660" height="150" /></p>
+<p>Our next superstar is more than a star, he&#8217;s an Envato Market legend!</p>
+<p>Hailing from South Africa, <a href="http://themeforest.net/user/DigitalScience">DigitalScience</a> has been invested in Envato Market for almost 8 years and was one of our highest selling authors for many years during the heydey of Flash.</p>
+<p>We&#8217;re acknowledging his contributions today because he&#8217;s quickly approaching an amazing <strong>5,000 forum posts</strong>! What makes DigitalScience such a passionate community member that we truly appreciate is the fact that he cares enough not only to ask the right questions about ideas and new features/functionality, but he has often created screenshots and mockups to convey his ideas and thoughts.</p>
+<p>His ideas, and love/desire to help improve Envato Market not only for his own journey but for <em>all</em> authors/buyers never goes unnoticed. We give you a digital salute, DS, and we thank you for your remarkable service to our community!</p>
+<h4><strong>SoundCity</strong></h4>
+<p><img class="alignnone size-large wp-image-39704" src="http://marketblog.envato.com/wp-content/uploads/2015/03/soundcity-660x150.jpg" alt="" width="660" height="150" /></p>
+<p>Finally, our community moderation team wanted to give a big thanks to <a href="http://audiojungle.net/user/soundcity">SoundCity</a> for helping report the influx of spam in our forums so that our moderators can quickly remove it. His quick, eagle-eyes have helped flag and report a huge amount of spam recently and it&#8217;s just another way that our community can work together to help make Envato Market a better place for all. Thank you so much for the time and effort you&#8217;ve spent reporting spam, SoundCity!</p>
+<p>All our community superstars are awarded the Community Superstar badge. Well done to you all!</p>
+<h4>Help Nominate our Next Superstars!</h4>
+<p class="alert">If YOU would like to nominate a fellow community member or think that someone within the Envato Market community has really shone like a star recently, <b>please let us know in the comments below! </b>While you&#8217;re there, give our superstars for February a big high-five!</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/community/meet-our-community-superstars-for-february/">Meet our Community Superstars for February</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=IKEpk5ccM80:ZNkNkvimCiw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=IKEpk5ccM80:ZNkNkvimCiw:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=IKEpk5ccM80:ZNkNkvimCiw:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=IKEpk5ccM80:ZNkNkvimCiw:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=IKEpk5ccM80:ZNkNkvimCiw:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=IKEpk5ccM80:ZNkNkvimCiw:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=IKEpk5ccM80:ZNkNkvimCiw:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=IKEpk5ccM80:ZNkNkvimCiw:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=IKEpk5ccM80:ZNkNkvimCiw:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/IKEpk5ccM80" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/community/meet-our-community-superstars-for-february/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/community/meet-our-community-superstars-for-february/</feedburner:origLink></item>
+		<item>
+		<title>Are DIY Website Builders Really Worth It?</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/lk_T8526Sf0/</link>
+		<comments>http://marketblog.envato.com/guest/diy-website-builders/#comments</comments>
+		<pubDate>Fri, 06 Mar 2015 10:28:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sufyan bin Uzayr]]></dc:creator>
+				<category><![CDATA[Guest]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=38331</guid>
+		<description><![CDATA[<p>With the ever-growing popularity of the internet more and more websites are cropping up. Be it small businesses, artists, creative agencies or even personal blogs, almost every other person on the planet has a website. Rightfully so. After all, having a proper web presence has now become a necessity, rather than a luxury. As such, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/guest/diy-website-builders/">Are DIY Website Builders Really Worth It?</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>With the ever-growing popularity of the internet more and more websites are cropping up. Be it small businesses, artists, creative agencies or even personal blogs, almost every other person on the planet has a website.</p>
+<p>Rightfully so. After all, having a proper web presence has now become a necessity, rather than a luxury.</p>
+<p>As such, many services have launched in recent years that allow users to quickly and easily build websites within minutes. Commonly termed as <strong>Do-It-Yourself </strong>(henceforth abbreviated as DIY) website builders, these tools or services offer a simple interface that enables even the most technologically illiterate users to put together a simple website or blog with minimum effort.</p>
+<p>So, are these DIY website builders worth the effort and money? Well, I&#8217;m going to try to answer that question.</p>
+<h4><b>DIY Website Builders: What and How?</b></h4>
+<p>For the sake of avoiding controversy, I will refrain from naming any one particular DIY website builder. However, all said and done, nearly all website builders follow more or less the same mechanism.</p>
+<figure id="attachment_38846" style="width: 500px;" class="wp-caption aligncenter"><a href="http://graphicriver.net/item/website-development-flat-illustration/6780200"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/6780200-water.jpg" alt="Image Source: Website Development Flat Illustration by Bloomua." width="590" height="590" class="size-full wp-image-38846" /></a><figcaption class="wp-caption-text">Image Source: <a href="http://graphicriver.net/item/website-development-flat-illustration/6780200">Website Development Flat Illustration</a> by Bloomua.</figcaption></figure>
+<p>Simply put, these website builders offer a simplistic tool or interface to help you &#8220;put together&#8221; your website, not actually &#8220;build&#8221; it. There is a WYSIWYG editor, coupled with a drag and drop interface that allows you to build and publish pages without any rocket science involved. Therefore, you can easily put together a website with basic functionality, say a contact form, some social media widgets, text and image areas, as well as a slightly more complex entity, say a blog or a portfolio page.</p>
+<p>To accomplish this, most DIY builders offer a set of ready-made templates, which you can either customize via the drag and drop interface, or tweak by means of basic CSS edits. In either case, your design options are limited by the amount of editing skills and freedom given to you by the concerned DIY website builder.</p>
+<h4><b>Where Lies The Flaw?</b></h4>
+<p>On the surface, DIY website builders seem to be a pretty neat solution for folks who need a simple web presence: possibly a small blog, or maybe just a one-pager website.</p>
+<p>However, there is more to the story.</p>
+<p>In general, web design and web development is a tricky ordeal. A website can never be &#8220;put together&#8221;; websites are not jigsaw puzzles but works of art and need to be curated and created.</p>
+<figure id="attachment_38846" style="width: 500px;" class="wp-caption aligncenter"><a href="http://graphicriver.net/item/responsive-web-design/9341869"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/9341869.jpg" alt="Image Source: Responsive Web Design by Yapanda" class="size-full wp-image-38846" /></a><figcaption class="wp-caption-text">Image Source: <a href="http://graphicriver.net/item/responsive-web-design/9341869">Responsive Web Design</a> by Yapanda.</figcaption></figure>
+<p>The problem with DIY website builders is that they offer solutions for people who do need seek a solution, but an easy way out of their problem. &#8220;My neighbor and his dog have got a website, I need one too. Let me quickly put it together with this tool for $9.&#8221;</p>
+<p>The above logic is not what someone should have when seriously contemplating having a website of their own.</p>
+<p>There is a reason why Content Management Systems rose in popularity. WordPress, <a href="https://www.drupal.org/">Drupal</a> and all the others in their ranks attempt to help users &#8220;create&#8221; websites. Sure, you can have a simple blog using your DIY builder, but your blog will not achieve much anytime soon, unless it uses something at the level of <a href="http://marketblog.envato.com/trends/current-state-ghost/">Ghost</a> or <a href="https://wordpress.org/">WordPress</a>.</p>
+<p>As such, DIY website builders offer not solutions, but compromises. Rudimentary websites with negligible functionality tend to be the norm in this case.</p>
+<h4><b>The &#8220;Ease of Use&#8221; Logic</b></h4>
+<p>One argument that is often put forth in favor of DIY website builders is that such solutions and services offer ease of use and simplicity for the average user. To some extent, this might be true. After all, not everyone can deploy a website using <a href="http://marketblog.envato.com/learn-something-new/introduction-concrete5/">concrete5</a> or <a href="http://marketblog.envato.com/learn-something-new/introduction-joomla/">Joomla</a>, can they?</p>
+<figure id="attachment_38846" style="width: 500px;" class="wp-caption aligncenter"><a href="http://graphicriver.net/item/web-and-html-programming-flat-illustration/6941112"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/6941112.jpg" alt="Image Source: Responsive Web Design by Yapanda" class="size-full wp-image-38846" /></a><figcaption class="wp-caption-text">Image Source: <a href="http://graphicriver.net/item/web-and-html-programming-flat-illustration/6941112">Web and HTML Programming</a> by Bloomua.</figcaption></figure>
+<p>However, once again, this logic is just one face of the story.</p>
+<p>Take up the case of flat-file CMSs such as FlatPress.</p>
+<p>What can you achieve with <a href="http://flatpress.org/home/">FlatPress</a>? A simple, ready-to-use blog that does not even require a database to connect to and as such, is easy on server resources and very simple to manage.</p>
+<p>Can FlatPress do everything that WordPress can? No.</p>
+<p>Does it need to? Nope.</p>
+<p>However, by choosing even FlatPress over a DIY website builder, you ensure that you are not locking yourself down to a set of narrowly defined templates and rules and terms of a given service. This in itself is a benefit big enough to consider a nimble CMS over a funky DIY site builder.</p>
+<h4><b>Appraisal</b></h4>
+<p>So, are all DIY website builders evil and need to perish?</p>
+<p>No, I do not think so.</p>
+<p>My sole point is that the recent claim to fame of several DIY website builders that their offerings can simplify life and reduce the needs of the services of a proper designer or developer are mere myths. Anyone who is serious about their website will opt for a proper solution that can actually get the task done, instead of betting on a DIY builder that allows you to choose from 50+ generic templates.</p>
+<p>Furthermore, the basic functionality, be it social media widgets or guestbook or blog sections, that DIY website builders have to offer, can only serve up to a given point. Following that, you will promptly realize the merits and boons of extending a CMS via extensions, themes, or plugins.</p>
+<p>Websites, be they blogs or corporate sites, are dynamic entities, and need room to grow. You do not put together a website and forget all about it. Instead, you need to regularly keep updating it, and keep curating it. As such, the mainstream CMS is a much better solution than a DIY website builder.</p>
+<h4><b>Your Thoughts &#038; Poll</b></h4>
+<p><strong>What do you think of DIY website builders? Ever used any? Share your thoughts in the comments below!</strong></p>
+<a name="pd_a_8657684"></a>
+<div class="PDS_Poll" id="PDI_container8657684" data-settings="{&quot;url&quot;:&quot;\/\/static.polldaddy.com\/p\/8657684.js&quot;}" style="display:inline-block;"></div>
+<div id="PD_superContainer"></div>
+<noscript><a href="http://polldaddy.com/poll/8657684">Take Our Poll</a></noscript><script type='text/javascript'>
+(function(d,c,j){if(!d.getElementById(j)){var pd=d.createElement(c),s;pd.id=j;pd.src='http://marketblog.envato.com/wp-content/plugins/polldaddy/js/polldaddy-shortcode.js';s=d.getElementsByTagName(c)[0];s.parentNode.insertBefore(pd,s);}  else if(typeof jQuery !=='undefined')jQuery(d.body).trigger('pd-script-load');}(document,'script','pd-polldaddy-loader'));
+</script>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/guest/diy-website-builders/">Are DIY Website Builders Really Worth It?</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lk_T8526Sf0:MSiVECXz51k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lk_T8526Sf0:MSiVECXz51k:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lk_T8526Sf0:MSiVECXz51k:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lk_T8526Sf0:MSiVECXz51k:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lk_T8526Sf0:MSiVECXz51k:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lk_T8526Sf0:MSiVECXz51k:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lk_T8526Sf0:MSiVECXz51k:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=lk_T8526Sf0:MSiVECXz51k:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=lk_T8526Sf0:MSiVECXz51k:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/lk_T8526Sf0" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/guest/diy-website-builders/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/guest/diy-website-builders/</feedburner:origLink></item>
+		<item>
+		<title>Video Backgrounds in Web Design: 20 Themes &amp; Templates</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/RnOzJY6d6j8/</link>
+		<comments>http://marketblog.envato.com/resources/video-background-themes-templates/#comments</comments>
+		<pubDate>Thu, 05 Mar 2015 00:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[Paul Andrew]]></dc:creator>
+				<category><![CDATA[Resources]]></category>
+		<category><![CDATA[Master Video in Web Design]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39025</guid>
+		<description><![CDATA[<p>We have an amazing selection of CMS themes and templates that all offer an all-in-one video background solution.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/resources/video-background-themes-templates/">Video Backgrounds in Web Design: 20 Themes &#038; Templates</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve shown you the <a href="http://marketblog.envato.com/tips/video-background-html5-video/">techniques</a>, discussed the <a href="http://marketblog.envato.com/trends/video-backgrounds-web-design-trends-usability-best-practices/">guidelines</a>, and also shared the <a href="http://marketblog.envato.com/resources/plugins-video-backgrounds/">tools</a> for quickly and easily adding video backgrounds to your own web site.</p>
+<p>Today, we&#8217;re going to bring <a href="http://marketblog.envato.com/tag/master-video-in-web-design/">all of those posts together</a> by sharing a selection of CMS themes and templates that all offer an all-in-one video background solution.</p>
+<p class="alert alert--inverse"><img src="http://marketblog.envato.com/wp-content/uploads/2014/08/Logo_x2_retina.jpg" alt="Logo_x2_retina" width="160" height="88" class="alignright size-full wp-image-38916" />This post has been published as part of our <b>Master Video in Web Design</b> event. For more articles, tutorials and free files <a href="http://marketblog.envato.com/daily-free-files/">click here</a>.</p>
+<h2><b>Video Background Themes &#038; Templates</b></h2>
+<hr />
+<h4><b>Gris</b> &#8211; Creative Coming Soon Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://www.creabox.es/themes/bar/?theme=gris">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/gris-creative-coming-soon-template/8313293">Gris</a> is a minimally designed coming soon web template that includes three homepage variants and supports both full-screen images and video (Youtube and Vimeo).</p>
+<p><a target="_blank" href="http://themeforest.net/item/gris-creative-coming-soon-template/8313293"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_03.jpg" alt="Gris - Creative Coming Soon Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Sparx</b> &#8211; Responsive Coming Soon Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themes.spiralpixelthemes.co.uk/?product=Sparx">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/sparx-responsive-coming-soon-html5-template/7896199">Sparx</a> is a professional, 8-in-1 responsive and retina-ready coming soon template that has been built using Bootstrap 3.</p>
+<p><a target="_blank" href="http://themeforest.net/item/sparx-responsive-coming-soon-html5-template/7896199"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_04.jpg" alt="Sparx - Responsive Coming Soon Html5 Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>inTime</b> &#8211; Responsive Coming Soon Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themeforest.net/item/intime-responsive-coming-soon-template/full_screen_preview/6623462">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/intime-responsive-coming-soon-template/6623462">inTime</a> is a responsive, modern and clean under construction/coming soon template. This minimally designed template is packed with a countdown timer, Ajax subscription form, social icons and an about page.</p>
+<p><a target="_blank" href="http://themeforest.net/item/intime-responsive-coming-soon-template/6623462"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_05.png" alt="inTime - Responsive Coming Soon Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Vesa</b> &#8211; Responsive Parallax One Page Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themeforest.net/item/vesa-responsive-parallax-one-page-template/full_screen_preview/7759632">Preview</a></span></h4>
+<p>The retina-ready <a target="_blank" href="http://themeforest.net/item/vesa-responsive-parallax-one-page-template/7759632">Vesa</a> is a creative, parallax scrolling, one-page web template that comes with support for video background built-in. You can use videos from Youtube, Vimeo, or your own custom MP4 clips.</p>
+<p><a target="_blank" href="http://themeforest.net/item/vesa-responsive-parallax-one-page-template/7759632"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_06.png" alt="Vesa Responsive Parallax One Page Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Family</b> &#8211; MultiPurpose Responsive One Page Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themeforest.net/item/family-multipurpose-responsive-one-page-template/full_screen_preview/8819554">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/family-multipurpose-responsive-one-page-template/8819554">Family</a> is a fully responsive and retina-ready one-page HTML/CSS template. This template comes packaged with three homepage variants and includes all of the features and elements you would expect for building a modern portfolio, including video backgrounds.</p>
+<p><a target="_blank" href="http://themeforest.net/item/family-multipurpose-responsive-one-page-template/8819554"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_07.jpg" alt="Family - MultiPurpose Responsive One Page Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>King Size</b> &#8211; Full-Screen Background Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themeforest.net/item/king-size-fullscreen-background-template-/full_screen_preview/148767">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/king-size-fullscreen-background-template-/148767">King Size</a> is a portfolio/photography theme with support for fullscreen images and background videos. There is also a WordPress version available <a href="http://themeforest.net/item/king-size-fullscreen-background-wordpress-theme/166299" target="_blank">here</a>.</p>
+<p><a target="_blank" href="http://themeforest.net/item/king-size-fullscreen-background-template-/148767"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_08.jpg" alt="King Size - fullscreen background template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Beuh</b> &#8211; Responsive One Page Portfolio Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://demo.ridianur.com/?theme=Beuh%20Template">Preview</a></span></h4>
+<p>Built with Bootstrap, <a target="_blank" href="http://themeforest.net/item/beuh-responsive-one-page-portfolio-template/8375182">Beuh</a> is a responsive one-page portfolio template with a clean, simple and elegant design.</p>
+<p><a target="_blank" href="http://themeforest.net/item/beuh-responsive-one-page-portfolio-template/8375182"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_09.jpg" alt="Beuh - Responsive One Page Portfolio Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Tides</b> &#8211; Fullscreen Video Single Page Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://switcher.madeinebor.com/?theme=Tides">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/tides-fullscreen-video-single-page-template/5957384">Tides</a> comes with loads of unique layouts, a working load-more button, three homepage variants, filterable portfolio, background video header and much more.</p>
+<p><a target="_blank" href="http://themeforest.net/item/tides-fullscreen-video-single-page-template/5957384"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_10.jpg" alt="Tides - Fullscreen Video Single Page Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Fenix</b> &#8211; Fullscreen Video &amp; Image Background<span style="float:right"><a rel="nofollow" class="btn btn--size-s"  target="_blank" href="http://themeforest.net/item/fenix-fullscreen-video-image-background/full_screen_preview/2063700">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/fenix-fullscreen-video-image-background/2063700">Fenix</a> is a creative portfolio WordPress theme with support for full-screen images and video.</p>
+<p><a target="_blank" href="http://themeforest.net/item/fenix-fullscreen-video-image-background/2063700"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_11.jpg" alt="WordPress - Fenix - Fullscreen Video &amp; Image Background" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Xenon</b> &#8211; YouTube Video Background Page<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/xenon-countdown-youtube-video-background-page/full_screen_preview/3994059">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/xenon-countdown-youtube-video-background-page/3994059">Xenon</a> is a modern and interactive coming soon page template that can ben easily and quickly customized. It also includes a newsletter form to collect prospective customers and visitors.</p>
+<p><a target="_blank" href="http://themeforest.net/item/xenon-countdown-youtube-video-background-page/3994059"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_01.png" alt="Xenon — Countdown &amp; YouTube Video Background Page" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Bell</b> &#8211; Video Background Countdown Landing Page<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/bell-video-background-countdown-landing-page/full_screen_preview/8989042">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/bell-video-background-countdown-landing-page/8989042">Bell</a> is a simple, clean and fully responsive mobile friendly landing page. It supports full video or image background headers.</p>
+<p><a target="_blank" href="http://themeforest.net/item/bell-video-background-countdown-landing-page/8989042"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_02.png" alt="Bell - Video Background Countdown Landing Page" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Alamak</b> &#8211; Responsive One Page Portfolio WordPress Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://demo.ridianur.com/?theme=Alamak%20WP%20Theme">Preview</a></span></h4>
+<p>Built with Bootstrap, <a target="_blank" href="http://themeforest.net/item/alamak-responsive-one-page-portfolio-theme/6502151">Alamak</a> is a responsive one-page WordPress Theme with a clean and elegant design. It comes packaged with three optional homepage layouts: Slider, video and Youtube background.</p>
+<p><a target="_blank" href="http://themeforest.net/item/alamak-responsive-one-page-portfolio-theme/6502151"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/alamak-wp-preview.__large_preview.jpg" alt="WordPress - Alamak - Responsive One Page Portfolio Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>HQ</b> &#8211; Photography Responsive WP Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/hq-photography-responsive-wp-theme/full_screen_preview/3200962">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/hq-photography-responsive-wp-theme/3200962">HQ</a> is an interactive and engaging WordPress theme designed for photographers and videographers. It includes video backgrounds, photo/video grid galleries, portfolio layouts, and much more.</p>
+<p><a target="_blank" href="http://themeforest.net/item/hq-photography-responsive-wp-theme/3200962"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_15.jpg" alt="WordPress - HQ Photography Responsive WP Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Vozx</b> &#8211; Multipurpose WordPress Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/vozx-multipurpose-wordpress-theme/full_screen_preview/10112808">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/vozx-multipurpose-wordpress-theme/10112808">Vozx</a> is an ideal theme for any creative agency, and includes a great collection of elements to choose from and present your services.</p>
+<p><a target="_blank" href="http://themeforest.net/item/vozx-multipurpose-wordpress-theme/10112808"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_16.jpg" alt="WordPress - Vozx - Multipurpose WordPress Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Versatile</b> &#8211; Responsive Multi-Purpose WP Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/versatile-responsive-multipurpose-wp-theme/full_screen_preview/7921603">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/versatile-responsive-multipurpose-wp-theme/7921603">Versatile</a>  is a clean and responsive multi-purpose WordPress theme with support for video as a background.</p>
+<p><a target="_blank" href="http://themeforest.net/item/versatile-responsive-multipurpose-wp-theme/7921603"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_17.png" alt="WordPress - Versatile - Responsive Multi-Purpose WP Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Alpha</b> &#8211; Ultra Flexibile WordPress Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/alpha-ultra-flexibile-responsive-wordpress-theme/full_screen_preview/6389110">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/alpha-ultra-flexibile-responsive-wordpress-theme/6389110">Alpha</a> is a multi-purpose theme, so you can use it as a corporate website, business website, blog, or a portfolio showcase website. It come packaged with a versatile system for placing video backgrounds anywhere on the homepage (except the footer).</p>
+<p><a target="_blank" href="http://themeforest.net/item/alpha-ultra-flexibile-responsive-wordpress-theme/6389110"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_20.jpg" alt="WordPress - Alpha - Ultra Flexibile Responsive WordPress Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>PaperPlane</b> &#8211; Creative One Page Joomla Template<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/paperplane-creative-one-page-joomla-template/full_screen_preview/9899268">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/paperplane-creative-one-page-joomla-template/9899268">PaperPlane</a> is a creative one-page Joomla template that includes three homepage variants (video background, parallax image and parallax slider).</p>
+<p><a target="_blank" href="http://themeforest.net/item/paperplane-creative-one-page-joomla-template/9899268"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/paperplane.jpg" alt="CMS Themes - PaperPlane - Creative One Page Joomla Template" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Royalet</b> &#8211; One Page Bootstrap Drupal Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/royalet-one-page-bootstrap-drupal-theme/full_screen_preview/9906884">Preview</a></span></h4>
+<p>Built with Bootstrap, <a target="_blank" href="http://themeforest.net/item/royalet-one-page-bootstrap-drupal-theme/9906884">Royalet</a> is a one-page Drupal theme that comes packaged with eight homepage variants, including video backgrounds.</p>
+<p><a target="_blank" href="http://themeforest.net/item/royalet-one-page-bootstrap-drupal-theme/9906884"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_22.png" alt="CMS Themes - Royalet | One Page Bootstrap Drupal Theme" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Neat</b> &#8211; Lightweight MODX Theme<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://themeforest.net/item/neat-lightweight-modx-with-sass-bourbon-neat/full_screen_preview/9103125">Preview</a></span></h4>
+<p><a target="_blank" href="http://themeforest.net/item/neat-lightweight-modx-with-sass-bourbon-neat/9103125">Neat</a> is a clean, fast loading MODX Theme built with modular Sass files, for quick and easy front-end customisation. It comes with support for video backgrounds.</p>
+<p><a target="_blank" href="http://themeforest.net/item/neat-lightweight-modx-with-sass-bourbon-neat/9103125"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_24.png" alt="CMS Themes - Neat - Lightweight MODX with Sass &amp; Bourbon Neat" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h4><b>Kane</b> &#8211; Responsive Bootstrap 3 App Landing Page<span style="float:right"><a rel="nofollow" class="btn btn--size-s" target="_blank" href="http://templateocean.com/premium/?product=kane">Preview</a></span></h4>
+<p>Built with Bootstrap 3, <a target="_blank" href="http://themeforest.net/item/kane-responsive-bootstrap-3-app-landing-page/7131523">Kane</a> is a clean and modern landing page template designed for releasing and promoting mobile apps.</p>
+<p><a target="_blank" href="http://themeforest.net/item/kane-responsive-bootstrap-3-app-landing-page/7131523"><img src="http://marketblog.envato.com/wp-content/uploads/2015/02/video_background_template_theme_25.jpg" alt="Marketing - Kane - Responsive Bootstrap 3 App Landing Page" class="aligncenter size-full wp-image-38610" /></a></p>
+<hr />
+<h2><b>Next Steps</b></h2>
+<p>The above examples are merely the tip of the iceberg. ThemeForest currently has a huge selection of themes and templates that all come with support for <a href="http://themeforest.net/tags/background%20video" target="_blank">video backgrounds</a> built-in, you should check them out.</p>
+<p class="alert alert--inverse"><img src="http://marketblog.envato.com/wp-content/uploads/2014/08/Logo_x2_retina.jpg" alt="Logo_x2_retina" width="160" height="88" class="alignright size-full wp-image-38916" />This post has been published as part of our <b>Master Video in Web Design</b> event. For more articles, tutorials and free files <a href="http://marketblog.envato.com/daily-free-files/">click here</a>.</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/resources/video-background-themes-templates/">Video Backgrounds in Web Design: 20 Themes &#038; Templates</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=RnOzJY6d6j8:9-IHRQzYgvk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=RnOzJY6d6j8:9-IHRQzYgvk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=RnOzJY6d6j8:9-IHRQzYgvk:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=RnOzJY6d6j8:9-IHRQzYgvk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=RnOzJY6d6j8:9-IHRQzYgvk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=RnOzJY6d6j8:9-IHRQzYgvk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=RnOzJY6d6j8:9-IHRQzYgvk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=RnOzJY6d6j8:9-IHRQzYgvk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=RnOzJY6d6j8:9-IHRQzYgvk:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/RnOzJY6d6j8" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/resources/video-background-themes-templates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/resources/video-background-themes-templates/</feedburner:origLink></item>
+		<item>
+		<title>Interview with Ryan Terry, Lead Designer at Disney</title>
+		<link>http://feedproxy.google.com/~r/TheRiverCurrent/~3/Iu-CMpCil50/</link>
+		<comments>http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/#comments</comments>
+		<pubDate>Wed, 04 Mar 2015 11:07:52 +0000</pubDate>
+		<dc:creator><![CDATA[Scott]]></dc:creator>
+				<category><![CDATA[Interviews]]></category>
+
+		<guid isPermaLink="false">http://marketblog.envato.com/?p=39439</guid>
+		<description><![CDATA[<p>We invited our community to pose questions to Ryan Terry, Lead Designer at Disney. Find out more about the magic behind a creative career at Disney!</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/">Interview with Ryan Terry, Lead Designer at Disney</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p class="lead">We had an <strong>amazing</strong> response to our <a href="http://marketblog.envato.com/interviews/chance-interview-ryan-terry-lead-designer-disney/">call for questions</a> to pose to Disney Lead Designer, Ryan Terry! More than 170 people submitted over 250 questions, thank you so much to everyone who submitted questions!</p>
+<p>We&#8217;ve picked out our favorite questions and mixed in a few of our own, so stand by for the much anticipated interview with Ryan Terry!</p>
+<h2><strong><b>Who is Ryan Terry <em>(in his own words)</em>?</b></strong></h2>
+<p><b>The Short Version</b></p>
+<p>I’m an artist with an affinity for silliness.  I enjoy a wide range of art forms from drawing, animating and coding.</p>
+<p><img class="alignnone size-large wp-image-39576" src="http://marketblog.envato.com/wp-content/uploads/2015/03/ryan-disney-660x495.jpg" alt="Ryan's dreams come true!" width="660" height="495" /></p>
+<p><b>The Longer Version</b></p>
+<p>I’m originally from Houston, TX and aspired to be an animator from an early age.  I drew, drew, drew all the way to college where I received my BFA from the Savannah College of Art and Design in Computer Art with an emphasis in Interactive Design.</p>
+<p>Life led me in a direction towards web design and development and I played in that world for a decade working for small agencies and freelancing for 8 years.  I both designed and developed Flash websites for brands like Coca-cola, Wal-mart and Harry Potter, while later transitioning into the app market working on apps for Dreamworks, Sony Animation and Disney.</p>
+<p>For the past year and a half I’ve had the privilege of working as a Lead Designer for Disney, launching the Imagicademy brand at the end of 2014.</p>
+<p>Outside of work you can find me with my wonderful wife and new baby daughter in Los Angeles.  I love drawing silliness, watching movies, riding my bike and working on my hobby projects.</p>
+<hr />
+<h2><strong><b>What was your childhood dream?</b></strong></h2>
+<p><img class="wp-image-39440" src="http://marketblog.envato.com/wp-content/uploads/2015/02/avatar92-1.jpg" alt="" width="50" height="50" />  <em>Question submitted by <strong>MetroThemes</strong></em></p>
+<p>I absolutely, positively wanted to be a Disney Animator, making feature films.</p>
+<p><img class="alignnone size-large wp-image-39555" src="http://marketblog.envato.com/wp-content/uploads/2015/03/bo_1-660x854.jpg" alt="Image courtesy of Ryan Terry" width="660" height="854" /></p>
+<hr />
+<h2><strong><b>Did something specific inspire you to take an artistic path, or was it something that you had always wanted to do?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92.jpg"><img class="alignleft wp-image-39520" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Tier</strong></em></p>
+<p>&nbsp;</p>
+<p>I’ve always wanted to take the artistic path.  What sparked my dream to be a Disney Animator was seeing <i>The Little Mermaid</i> for the first time.  It blew me away and I was hooked… pun intended.</p>
+<hr />
+<h2><strong><b>You’re proficient in many, (if not all!) areas of design, illustration, coding/development, and animation. How did you decide which element to focus on in your career?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-01.jpg"><img class="alignleft wp-image-39521 size-full" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-01.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>bogz</strong></em></p>
+<p>&nbsp;</p>
+<p>Here’s the thing…I didn’t! I always thought I would be an animator, but I also love illustration. In college, I double-majored in 2D Animation and Illustration. But as I entered my sophomore year I became really interested in early Flash animation and started moving in a more interactive direction, changing my major to Computer Art with an emphasis in Interactive Design. I then made sure to draw in every interactive project I had, to keep that interest going as well. I&#8217;ve tried to keep that mindset ever since then, which has led me down the web design, illustration, graphic design and games path.</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-large wp-image-39556" src="http://marketblog.envato.com/wp-content/uploads/2015/03/bo_3-660x407.jpg" alt="Image courtesy of Ryan Terry" width="660" height="407" /></p>
+<hr />
+<h2><strong><b>What (if any) things did you do to transition yourself away from Flash when you saw the industry moving away from it?</b></strong></h2>
+<p><img class="wp-image-39457" src="http://marketblog.envato.com/wp-content/uploads/2015/02/avatar92-1-1.jpg" alt="" width="50" height="50" />  <em>Question submitted by <strong>ButlerM</strong></em></p>
+<p>The nail in the coffin for Flash was when Adobe said they’re not supporting it on mobile anymore. I know Actionscript, but Objective-C (X-Code) is a very different beast. I decided to start learning how to code apps, while simultaneously freelancing with app companies for front-end design jobs instead of doing both front-end and back-end jobs like I was doing before. I was designing apps immediately, so I’m very thankful for that work. I made my first app on my own within that year using only X-Code. I’m currently learning Unity since it’s cross-platform, powerful and the interface is nice for visual people like me. The biggest lesson I learned through this Flash transition is to always keep learning other software and mediums, keeping an eye on the future.</p>
+<hr />
+<h2><strong><b>Can you share how you started in this field &amp; how challenging it was to get where you are right now? How did the opportunity to work at Disney open up?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-02.jpg"><img class="alignleft wp-image-39523 size-full" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-02.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Falcon</strong></em></p>
+<p>&nbsp;</p>
+<p>It’s a case of who you know. I have a friend who used to work at Disney and he was able to get me in touch with people who knew people in the department that I was trying to apply for. I also spent some time creating a customized version of my resume website just for Disney. It’s so important to do something special to stand out from the crowd when applying at Disney.</p>
+<hr />
+<h2><strong><b>When you tell people you work at Disney, what&#8217;s the first thing most people say?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1.jpg"><img class="alignleft wp-image-39524" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>KaseyMoore</strong></em></p>
+<p>&nbsp;</p>
+<p>“Oh, cool. So do you work in Disneyland?”</p>
+<hr />
+<h2><strong><b>Could you describe what your desk/office looks like?</b></strong></h2>
+<p>I work in Disney’s Grand Central Creative Campus in Glendale, California. It’s a beauty!</p>
+<p><img class="alignnone wp-image-39547 size-large" src="http://marketblog.envato.com/wp-content/uploads/2015/03/7040751773_cd2f3f3359_b-660x356.jpg" alt="Disney’s Grand Central Creative Campus, Glendale, California" width="660" height="356" /></p>
+<p>I work in an open office layout and I’m on the side of the office space by the windows.</p>
+<p><img class=" wp-image-39548 size-full aligncenter" src="http://marketblog.envato.com/wp-content/uploads/2015/03/DIS20551.jpg" alt="" width="480" height="640" /></p>
+<p>I have a desk that lets me stand, but I tend to work better sitting down. The best feature of my desk is my Cintiq. How did I live without this thing?! What a wonderful tool.</p>
+<p><img class=" wp-image-39546 size-full aligncenter" src="http://marketblog.envato.com/wp-content/uploads/2015/03/8nWmwctdssbOSolPcoS34J7TyekEdhsv8vDLy_X1R8g.jpeg" alt="Ryan Terry at work with his beloved Cintiq!" width="660" height="495" /></p>
+<hr />
+<h2><strong><b>Out of all the different types of work at Disney, from web to mobile and from TV to film, what type of projects do you like to work on most of all, and what would you like to do more of?</b></strong></h2>
+<p>I work specifically in the mobile market, making educational apps for kids. I’d be thrilled to work in the visual-development and character design roles for feature film or television.</p>
+<hr />
+<h2><strong><b>What percentage of your work is done by drawing by hand and what percentage is done using computers?</b></strong></h2>
+<p>There’s a good amount of hand drawn work in pre-production when we’re brainstorming ideas and need to get rough visuals figured out. From there, I hand off my rough ideas to the rest of my INCREDIBLY talented art team and we work together to make something beautiful via computer.</p>
+<p><img class="alignnone size-large wp-image-39557" src="http://marketblog.envato.com/wp-content/uploads/2015/03/bo_2-660x854.jpg" alt="Image courtesy of Ryan Terry" width="660" height="854" /></p>
+<hr />
+<h2><strong><b>What is your morning routine before you start designing?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1-1.jpg"><img class="alignleft wp-image-39526" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1-1.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>StyleWish</strong></em></p>
+<p>&nbsp;</p>
+<p>Coffee…coffee…and coffee.</p>
+<p><img class="alignnone size-large wp-image-39558" src="http://marketblog.envato.com/wp-content/uploads/2015/03/comic018-660x215.jpg" alt="Image courtesy of Ryan Terry" width="660" height="215" /></p>
+<hr />
+<h2><strong><b>Where do you get inspiration for your work?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-11.jpg"><img class="alignleft wp-image-39528" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-11.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Jollythemes</strong></em></p>
+<p>&nbsp;</p>
+<p>All over the place! Thursdays are always fun because that’s when new apps are released in the App Store. I immediately download as many fun apps as I can find and play them for a few minutes. I also follow a lot of artist on Instagram and Twitter so I have a pretty constant feed of art throughout the day.</p>
+<hr />
+<h2><strong><b>Which animator or illustrator has been most influential on your career, and why?</b></strong></h2>
+<p><strong>Animator:</strong> Glen Keane — His work-ethic and skill is a never-ending inspiration to me.</p>
+<p><strong>Illustrator:</strong> Al Hirschfeld — His simple line-work and wonderful caricatures always put a smile on my face.</p>
+<hr />
+<h2><strong><b>Share with us your top 3 favorite Disney or Pixar movies of all time, what are they, and what do you like most about them?</b></strong></h2>
+<p><strong>The Incredibles</strong> — The scene where Dash is running on the water is the only time I’ve ever leapt out of my seat in applause during a movie.  Such a great sequence.</p>
+<p><strong>Aladdin</strong> — I love the humor, the color and the animation</p>
+<p><strong>The Lion King</strong> — The characters, the drama, the music.  How can anyone not love this one?</p>
+<hr />
+<h2><strong><b>Having worked as both a freelancer and now at a huge company like Disney, which of the two methods of earning a living is the most challenging?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-6.jpg"><img class="alignleft wp-image-39530" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-6.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Patche</strong></em></p>
+<p>&nbsp;</p>
+<p>The biggest challenge with freelancing is not having a steady paycheck, but I was fortunate enough to always have work for the 8 years I freelanced. Working at a corporation has more challenges because you’re working with multiple lines of business and many more people than I worked with previously. Getting to work with so many incredibly talented artists and legends is something I could never do on my own otherwise. And I get to work with Mickey!</p>
+<p><img class="alignnone size-large wp-image-39561" src="http://marketblog.envato.com/wp-content/uploads/2015/03/cloudy2_1-660x515.jpg" alt="Image courtesy of Ryan Terry" width="660" height="515" /></p>
+<hr />
+<h2><strong><b>What are some important lessons that you have learnt along the way that you could give to authors on Envato Market?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-6.jpg"><img class="alignleft wp-image-39530" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-6.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Patche</strong></em></p>
+<p>&nbsp;</p>
+<p>When I was actively selling templates on Envato I always tried to figure out how I could make a template based on current freelance work. Killing two birds with one stone. I wish I had spent more time purely working on templates as the residual income has been nice over the years and well worth the effort.</p>
+<hr />
+<h2><strong><b>Sometimes, creative inspiration isn’t always easy to come by. What&#8217;s the best way to approach a blank page from your experience?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1-11.jpg"><img class="alignleft wp-image-39532" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-1-11.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Matt Carrasco</strong></em></p>
+<p>&nbsp;</p>
+<p>Get outside! Do something to get out of your head. Take a walk. Or sometimes just scribbling nonsense lines on paper can make you see things in the lines that may inspire you. Read books, watch movies, go to dinner with friends. Also, sometimes you just need to lock yourself in a room and force yourself to throw as many ideas on paper as you can until something sticks. I love this quote by Jack London, &#8220;You can’t wait for inspiration. You have to go after it with a club.&#8221;</p>
+<p><img class="alignnone size-large wp-image-39562" src="http://marketblog.envato.com/wp-content/uploads/2015/03/drawing2-660x660.jpg" alt="Image courtesy of Ryan Terry" width="660" height="660" /></p>
+<hr />
+<h2><strong><b>How do you balance your own style of illustration/animation with the distinct look and feel of new or established Disney characters? What freedom do you have to build-on/modify/enhance well-known Disney properties, and what challenges are involved with this?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-03.jpg"><img class="alignleft wp-image-39535 size-full" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar-03.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>yashar1</strong></em></p>
+<p>&nbsp;</p>
+<p>We have strict style guides to make sure we stay true to the Disney aesthetic, but in the app Mickey’s Magical Math World we were able to have a lot of creative fun with the environment and space suits of Mickey, Minnie, Daisy, Donald and Goofy. We also created new alien and robot characters in the app.</p>
+<h2><img class="alignnone size-large wp-image-39563" src="http://marketblog.envato.com/wp-content/uploads/2015/03/drawing1-660x660.jpg" alt="Image courtesy of Ryan Terry" width="660" height="660" /></h2>
+<hr />
+<h2><strong><b>You’ve got a great idea for either a new character or an animation. What opportunities do you have at Disney to pitch new ideas?</b></strong></h2>
+<p>Disney is open to all kinds of new ideas. They allow you to pitch to them for the opportunity to partner with you on it.</p>
+<hr />
+<h2><strong><b>Could you tell us about your graphic novel Zerbert? Where did the idea come from and how is it coming along?</b></strong></h2>
+<p><img class="alignnone size-large wp-image-39550" src="http://marketblog.envato.com/wp-content/uploads/2015/03/zerbert1-660x660.jpg" alt="Zerbert, by Ryan Terry" width="660" height="660" /></p>
+<p>Zerbert is a hobby of mine. I’m still working on the story so I don’t want to say too much yet. But I plan on being very transparent during the process on my Zerbert blog. Come join the fun at <a href="http://zerbertcomic.com">zerbertcomic.com</a>.</p>
+<p><img class="alignnone size-large wp-image-39551" src="http://marketblog.envato.com/wp-content/uploads/2015/03/zerbert2-660x660.jpg" alt="Zerbert, by Ryan Terry" width="660" height="660" /></p>
+<p><img class="alignnone size-large wp-image-39552" src="http://marketblog.envato.com/wp-content/uploads/2015/03/zerbert3-660x660.jpg" alt="Zerbert, by Ryan Terry" width="660" height="660" /></p>
+<hr />
+<h2><strong><b>What would your advice be to someone who is very talented at what they do, but has not had a major break yet? Should their focus be on building a portfolio, creating their personal brand, perhaps pro-bono work, or something else?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-2.jpg"><img class="alignleft wp-image-39536" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-2.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Mustafa</strong></em></p>
+<p>&nbsp;</p>
+<p>The short answer; yes. Keep working and post your work everywhere you can; job sites, art forums, Instagram, Twitter, Tumblr, etc. It’s important to have a clear, understandable website that gets right to the point. Think about what you’d want to see if you were hiring someone like yourself. And the best thing you can do is make something special for your future employer. Show them that you really want the gig and that you deserve it.</p>
+<hr />
+<h2><strong><b>I have heard numerous professional &amp; academic suggestions saying that to get success from a creative career, one must focus entirely on one particular area. As a <em>jack of all trades</em> yourself, what is your response to this approach?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-3.jpg"><img class="alignleft wp-image-39538" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-3.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Mary Shinabarger </strong></em></p>
+<p>&nbsp;</p>
+<p>I wish I could agree with this, but I can’t. I can easily say that the more varied your skills are, the more valuable you are to employers. The last 3 people I hired are able to do 3D, UI design and are incredible digital painters. This trend isn’t going away. The marketplace changes so quickly that you need people that can do multiple things. I’m certain that focusing on one trade will make you better at it, but you’d be surprised at how creative you can be in other disciplines.</p>
+<p><img class="alignnone size-large wp-image-39564" src="http://marketblog.envato.com/wp-content/uploads/2015/03/theblindproject-660x495.jpg" alt="Image courtesy of Ryan Terry" width="660" height="495" /></p>
+<hr />
+<h2><strong><b>What do you think about, after turn off all of your monitors?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-21.jpg"><img class="alignleft wp-image-39539" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-21.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <strong>Roy Velvet </strong></em></p>
+<p>&nbsp;</p>
+<p>&#8220;Time to go home and be with my wonderful wife and baby daughter.&#8221;</p>
+<hr />
+<p>&nbsp;</p>
+<h2><strong><b>Out of all of the currently active Disney animation productions, which one would be a dream project for you to work on?</b></strong></h2>
+<p><a href="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-4.jpg"><img class="alignleft wp-image-39541" src="http://marketblog.envato.com/wp-content/uploads/2015/03/avatar92-4.jpg" alt="" width="50" height="50" /></a>  <em>Question submitted by <b>Mike McDonald</b></em></p>
+<p>&nbsp;</p>
+<p>The Moana film looks stunningly beautiful. I’d love to be a part of that project.</p>
+<hr />
+<h2></h2>
+<h2><strong><b>Everybody seems to be forgetting the most important question: are you currently working on Star Wars?</b></strong></h2>
+<p><img class="wp-image-39455" src="http://marketblog.envato.com/wp-content/uploads/2015/02/avatar92-3.jpg" alt="" width="50" height="50" />  <em>Question submitted by <strong>Paul Andrew</strong></em></p>
+<p>Ha! I wish. Most of us at Disney are waiting with baited breath to see this one just like everyone else. It’ll be fantastic.</p>
+<p><img class="alignnone size-large wp-image-39566" src="http://marketblog.envato.com/wp-content/uploads/2015/03/aliensculpture-660x984.jpg" alt="Image courtesy of Ryan Terry" width="660" height="984" /></p>
+<hr />
+<h2><strong><b>Phew! You made it, Ryan, awesome job! Could you tell us which was your favorite question and a little bit about the illustration you will be sending to the person who submitted the question?</b></strong></h2>
+<p>My favorite question was from <strong>Butlerm: </strong><em>&#8220;Ryan, you seem to have a been a talented Flash animator when flash was still popular. What (if any) things did you do to transition yourself away from Flash when you saw the industry moving away from it?&#8221;</em></p>
+<p><strong>Artwork I’m giving away:</strong></p>
+<p>In light of Big Hero 6 winning an Oscar, I thought they might like to have the handful of original drawings I made of the characters.  Why give away one drawing when I can give away 6?!</p>
+<p><img class="alignnone wp-image-39544 size-full" src="http://marketblog.envato.com/wp-content/uploads/2015/03/ryan-terry-giveaway.jpg" alt="Ryan Terry Artwork" width="660" height="978" /></p>
+<hr />
+<h4> Many Thanks to Ryan for the Incredible Interview</h4>
+<p>I&#8217;d like to give Ryan a <strong>huge thanks</strong> for allowing us to interview him, he has been nothing short of kind and gracious throughout this opportunity, particularly with his time. We wish Ryan best wishes for the rest of his exciting career.!</p>
+<p>But before we go, we have some prizes to give out!</p>
+<h4>Prize Winners</h4>
+<p>As Ryan mentioned earlier, <strong>ButlerM</strong> is our grand prize winner! <strong>Many congratulations!</strong></p>
+<p>We also had 3 T-shirts to give away for runners-up, and the winners are&#8230;</p>
+<ol>
+<li><strong>T-Shirt Winner 1</strong> &#8211; Mary Shinabarger</li>
+<li><strong>T-Shirt winner 2</strong> &#8211; Patche</li>
+<li><strong>T-Shirt winner 3</strong> &#8211; Mustafa</li>
+</ol>
+<p>We&#8217;ll be in touch with all winners later this week, <strong>well done</strong>!</p>
+<p class="alert">A big thank you to <strong>everyone who submitted questions! </strong>We appreciate the incredible response from our creative community and we could not have done this interview without you! We hope you enjoyed the interview and the opportunity to submit questions and get to know more about Ryan and his creative career at Disney!</p>
+<p>The post <a rel="nofollow" href="http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/">Interview with Ryan Terry, Lead Designer at Disney</a> appeared first on <a rel="nofollow" href="http://marketblog.envato.com">Market Blog</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=Iu-CMpCil50:6wTSBgixoPI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=Iu-CMpCil50:6wTSBgixoPI:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=Iu-CMpCil50:6wTSBgixoPI:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=Iu-CMpCil50:6wTSBgixoPI:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=Iu-CMpCil50:6wTSBgixoPI:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=Iu-CMpCil50:6wTSBgixoPI:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=Iu-CMpCil50:6wTSBgixoPI:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/TheRiverCurrent?a=Iu-CMpCil50:6wTSBgixoPI:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/TheRiverCurrent?i=Iu-CMpCil50:6wTSBgixoPI:F7zBnMyn0Lo" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/TheRiverCurrent/~4/Iu-CMpCil50" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://marketblog.envato.com/interviews/interview-with-ryan-terry-lead-designer-at-disney/</feedburner:origLink></item>
+	</channel>
+</rss><!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using apc
+Database Caching 10/12 queries in 0.003 seconds using disk
+Object Caching 1276/1295 objects using disk
+
+ Served from: marketblog.envato.com @ 2015-03-13 17:02:31 by W3 Total Cache -->

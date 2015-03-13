@@ -1,0 +1,7 @@
+Mirror in progress since Fri, 13 Mar 2015 15:17:32 .. please wait!
+winhttrack http://teothemes.com/wp/viewpoint/ -O ""/var/www/html/Dre website"" -Y -%v *.* 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=16572
+UID=1000
+GID=1000
+START=1426240052
